@@ -136,6 +136,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="597" />
+              <mxPoint x="670" y="610" />
             </Array>
             <mxPoint x="475.00000000000045" y="609.4200000000001" as="sourcePoint" />
             <mxPoint x="724" y="610.0800000000002" as="targetPoint" />
@@ -166,7 +167,7 @@
           <mxGeometry x="300" y="593.5" width="179" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-104" value="Evaluate 评估模块 Evaluate.h/cpp" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="640" y="780" width="179" height="49" as="geometry" />
+          <mxGeometry x="730" y="593.5" width="179" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
