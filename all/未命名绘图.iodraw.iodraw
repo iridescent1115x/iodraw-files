@@ -45,7 +45,7 @@
           <mxGeometry x="29" y="450" width="245" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-51" value="AI::init 初始化 AlphaBeta 状态" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="46" y="549" width="211" height="66" as="geometry" />
+          <mxGeometry x="46" y="549" width="211" height="61" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-52" value="调用 AlphaBeta::getbestMove" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="30" y="665" width="241" height="85" as="geometry" />
