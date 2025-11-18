@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="WqQJGe_Ks-aI3rVZQRrZ">
-    <mxGraphModel dx="2539" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1999" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,44 +123,48 @@
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-94" value="Evaluate 评估模块 Evaluate.h/cpp" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="68" y="1040" width="179" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-96" value="AlphaBeta 搜索模块 alphaBeta.h/cpp" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="303" y="585" width="172" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-97" value="Evaluate 评估模块 Evaluate.h/cpp" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="724" y="585" width="161" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-98" value="调用 getBestMove" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.28;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" target="HTGalz8Vl7RqY7RZ8qYq-96">
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-98" value="调用 getBestMove" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.28;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="212" y="597" />
             </Array>
             <mxPoint x="122" y="607.72" as="sourcePoint" />
+            <mxPoint x="303" y="607.44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-99" value="调用 getValue/getPotential" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.37;entryX=0;entryY=0.38;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-96" target="HTGalz8Vl7RqY7RZ8qYq-97">
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-99" value="调用 getValue/getPotential" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.37;entryX=0;entryY=0.38;rounded=0;" edge="1" parent="1" target="HTGalz8Vl7RqY7RZ8qYq-97">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="597" />
             </Array>
+            <mxPoint x="475.00000000000045" y="609.4200000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-100" value="返回估值/潜力值" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=1;entryY=0.63;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-97" target="HTGalz8Vl7RqY7RZ8qYq-96">
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-100" value="返回估值/潜力值" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=1;entryY=0.63;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-97">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="639" />
             </Array>
+            <mxPoint x="475.00000000000045" y="626.5800000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-101" value="返回最优落子" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=1;entryY=0.71;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-96">
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-101" value="返回最优落子" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=1;entryY=0.71;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="212" y="639" />
             </Array>
+            <mxPoint x="303" y="628.5600000000002" as="sourcePoint" />
             <mxPoint x="122" y="628.79" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-102" value="AI 模块&#xa; Ai.h/cpp" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-58" y="593.5" width="179" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-103" value="AlphaBeta 搜索模块 alphaBeta.h/cpp" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="78" y="920" width="179" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
