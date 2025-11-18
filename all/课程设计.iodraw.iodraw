@@ -164,7 +164,7 @@
           <mxGeometry x="-58" y="593.5" width="179" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-103" value="AlphaBeta 搜索模块 alphaBeta.h/cpp" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="78" y="920" width="179" height="49" as="geometry" />
+          <mxGeometry x="300" y="593.5" width="179" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
