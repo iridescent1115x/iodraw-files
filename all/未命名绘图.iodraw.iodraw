@@ -41,6 +41,89 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-50" value="开始: 接收当前棋盘 Board" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="24" y="360" width="245" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-51" value="AI::init 初始化 AlphaBeta 状态" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="41" y="459" width="211" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-52" value="调用 AlphaBeta::getbestMove" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="25" y="575" width="241" height="241" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-53" value="生成所有合法走子并进行潜力值排序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="866" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-54" value="遍历前 N 个启发式走子" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="49" y="983" width="194" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-55" value="调用 alpha_beta 递归搜索与剪枝" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="58" y="1081" width="177" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-56" value="接收叶节点评估分值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="44" y="1198" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-57" value="回溯更新 alpha/beta 值" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="37" y="1296" width="218" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-58" value="选择评分最高的落子 Move" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="23" y="1565" width="245" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-59" value="返回最优落子坐标给主程序" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="35" y="1663" width="222" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-60" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1762" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-50" target="HTGalz8Vl7RqY7RZ8qYq-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-51" target="HTGalz8Vl7RqY7RZ8qYq-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-52" target="HTGalz8Vl7RqY7RZ8qYq-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-53" target="HTGalz8Vl7RqY7RZ8qYq-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-54" target="HTGalz8Vl7RqY7RZ8qYq-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-55" target="HTGalz8Vl7RqY7RZ8qYq-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-56" target="HTGalz8Vl7RqY7RZ8qYq-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-68" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-57" target="HTGalz8Vl7RqY7RZ8qYq-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-69" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-58" target="HTGalz8Vl7RqY7RZ8qYq-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-59" target="HTGalz8Vl7RqY7RZ8qYq-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
