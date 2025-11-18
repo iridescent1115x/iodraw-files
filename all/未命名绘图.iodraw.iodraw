@@ -137,22 +137,17 @@
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-73" value="接收叶节点评估分值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="352" y="548.5" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-74">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="662" y="474.44444444444434" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-74" value="回溯更新 alpha/beta 值" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="439.5" width="218" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-78" value="选择评分最高的落子 Move" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="653" y="449.75" width="220" height="49" as="geometry" />
+          <mxGeometry x="631" y="450" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-79" value="返回最优落子坐标给主程序" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="652" y="548.25" width="222" height="49" as="geometry" />
+          <mxGeometry x="630" y="548.5" width="222" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-80" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="717" y="647.25" width="92" height="49" as="geometry" />
+          <mxGeometry x="695" y="647.5" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-78" target="HTGalz8Vl7RqY7RZ8qYq-79">
           <mxGeometry relative="1" as="geometry">
