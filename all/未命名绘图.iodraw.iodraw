@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="WqQJGe_Ks-aI3rVZQRrZ">
-    <mxGraphModel dx="869" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,8 +131,16 @@
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-72" value="调用 alpha_beta 递归搜索与剪枝" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="370" y="670.5" width="190" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-73" target="HTGalz8Vl7RqY7RZ8qYq-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-73" value="接收叶节点评估分值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="370" y="548.5" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="474.44444444444434" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-74" value="回溯更新 alpha/beta 值" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="358" y="439.5" width="218" height="70" as="geometry" />
