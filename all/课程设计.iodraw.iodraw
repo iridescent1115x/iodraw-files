@@ -18,10 +18,10 @@
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-5" value="调用 getValue/getPotential" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1.01;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.1176" y="5" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="82" y="234" />
+              <mxPoint x="92.5" y="216" />
             </Array>
-            <mxPoint x="122.76470588235281" y="197" as="sourcePoint" />
-            <mxPoint x="122.47000000000014" y="270" as="targetPoint" />
+            <mxPoint x="133.2647058823528" y="179" as="sourcePoint" />
+            <mxPoint x="132.97000000000014" y="252" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
