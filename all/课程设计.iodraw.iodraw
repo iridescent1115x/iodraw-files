@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-1" value="AI 模块 Ai.h/cpp" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-1" value="AI 模块&#xa; Ai.h/cpp" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="84" y="10" width="179" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-2" value="AlphaBeta 搜索模块 alphaBeta.h/cpp" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
@@ -120,7 +120,7 @@
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-93" value="AlphaBeta 搜索模块 alphaBeta.h/cpp" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="139.5" width="179" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-94" value="AI 模块 Ai.h/cpp" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-94" value="Evaluate 评估模块 Evaluate.h/cpp" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="324" y="250" width="179" height="49" as="geometry" />
         </mxCell>
       </root>
