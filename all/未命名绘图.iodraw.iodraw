@@ -51,7 +51,7 @@
           <mxGeometry x="30" y="665" width="241" height="85" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-53" value="生成所有合法走子并进行潜力值排序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="25.5" y="800" width="244.5" height="66" as="geometry" />
+          <mxGeometry x="28" y="797.5" width="244.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-54" value="遍历前 N 个启发式走子" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="54" y="1073" width="194" height="49" as="geometry" />
