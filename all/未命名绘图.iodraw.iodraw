@@ -50,6 +50,9 @@
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-52" value="调用 AlphaBeta::getbestMove" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="30.5" y="655.5" width="241" height="85" as="geometry" />
         </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-53" target="HTGalz8Vl7RqY7RZ8qYq-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-53" value="生成所有合法走子并进行潜力值排序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="28" y="790" width="244.5" height="60" as="geometry" />
         </mxCell>
@@ -132,13 +135,13 @@
           <mxGeometry x="358" y="439.5" width="218" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-78" value="选择评分最高的落子 Move" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="700" y="450.5" width="220" height="49" as="geometry" />
+          <mxGeometry x="681" y="449.75" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-79" value="返回最优落子坐标给主程序" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="712" y="548.5" width="222" height="49" as="geometry" />
+          <mxGeometry x="680" y="548.25" width="222" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-80" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="777" y="647.5" width="92" height="49" as="geometry" />
+          <mxGeometry x="745" y="647.25" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-78" target="HTGalz8Vl7RqY7RZ8qYq-79">
           <mxGeometry relative="1" as="geometry">
