@@ -129,7 +129,26 @@
           <mxGeometry x="409" y="700" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-74" value="回溯更新 alpha/beta 值" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="860" y="763" width="218" height="218" as="geometry" />
+          <mxGeometry x="381.5" y="430" width="218" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-78" value="选择评分最高的落子 Move" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="38" y="1665" width="245" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-79" value="返回最优落子坐标给主程序" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="50" y="1763" width="222" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-80" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1862" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-78" target="HTGalz8Vl7RqY7RZ8qYq-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-79" target="HTGalz8Vl7RqY7RZ8qYq-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
