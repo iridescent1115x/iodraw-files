@@ -8,7 +8,7 @@
           <mxGeometry x="152" y="30" width="179" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-2" value="AlphaBeta 搜索模块 alphaBeta.h/cpp" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="120" y="151" width="207" height="66" as="geometry" />
+          <mxGeometry x="138" y="151" width="207" height="66" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-3" value="Evaluate 评估模块 Evaluate.h/cpp" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="161" y="290" width="161" height="66" as="geometry" />
