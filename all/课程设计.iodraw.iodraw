@@ -95,13 +95,13 @@
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-74" value="回溯更新 alpha/beta 值" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="340" y="439.5" width="218" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-78" value="选择评分最高的落子 Move" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-78" value="选择评分最高的落子 Move" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="631" y="450" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-79" value="返回最优落子坐标给主程序" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="630" y="548.5" width="222" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-80" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-80" value="结束" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="695" y="647.5" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-81" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-78" target="HTGalz8Vl7RqY7RZ8qYq-79">
