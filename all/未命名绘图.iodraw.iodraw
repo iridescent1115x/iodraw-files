@@ -21,11 +21,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-5" value="调用 getValue/getPotential" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1.01;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-2" target="HTGalz8Vl7RqY7RZ8qYq-3">
-          <mxGeometry x="0.0812" y="-4" relative="1" as="geometry">
+          <mxGeometry x="0.0081" y="-13" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="82" y="234" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="-3" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-6" value="返回估值/潜力值" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0;entryX=0.75;entryY=1.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-3" target="HTGalz8Vl7RqY7RZ8qYq-2">
