@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="WqQJGe_Ks-aI3rVZQRrZ">
-    <mxGraphModel dx="1466" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1805" dy="1017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,10 +54,10 @@
           <mxGeometry x="25" y="956" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-54" value="遍历前 N 个启发式走子" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="330" y="964.5" width="194" height="49" as="geometry" />
+          <mxGeometry x="54" y="1073" width="194" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-55" value="调用 alpha_beta 递归搜索与剪枝" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="338.5" y="830" width="177" height="66" as="geometry" />
+          <mxGeometry x="63" y="1171" width="177" height="66" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-56" value="接收叶节点评估分值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="49" y="1288" width="204" height="49" as="geometry" />
@@ -85,6 +85,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-52" target="HTGalz8Vl7RqY7RZ8qYq-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-53" target="HTGalz8Vl7RqY7RZ8qYq-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
