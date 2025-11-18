@@ -42,7 +42,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-50" value="开始: 接收当前棋盘 Board" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-50" value="开始: 接收当前棋盘 Board" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="29" y="450" width="245" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-51" value="AI::init 初始化 AlphaBeta 状态" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
