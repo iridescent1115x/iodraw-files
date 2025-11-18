@@ -15,17 +15,17 @@
             <mxPoint x="133.36734693877554" y="131" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-5" value="调用 getValue/getPotential" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1.01;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-5" value="调用 getValue/getPotential" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1.01;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.1176" y="5" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="92.5" y="216" />
             </Array>
             <mxPoint x="133.2647058823528" y="179" as="sourcePoint" />
-            <mxPoint x="132.97000000000014" y="252" as="targetPoint" />
+            <mxPoint x="133" y="252" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-6" value="返回估值/潜力值" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0;entryX=0.75;entryY=1.01;rounded=0;" edge="1" parent="1">
+        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-6" value="返回估值/潜力值" style="curved=1;startArrow=none;endArrow=block;exitX=0.668;exitY=-0.017;entryX=0.75;entryY=1.01;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-94">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="249.76" y="216" />
