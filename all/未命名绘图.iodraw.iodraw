@@ -57,7 +57,7 @@
           <mxGeometry x="330" y="964.5" width="194" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-55" value="调用 alpha_beta 递归搜索与剪枝" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="63" y="1171" width="177" height="66" as="geometry" />
+          <mxGeometry x="338.5" y="830" width="177" height="66" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-56" value="接收叶节点评估分值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="49" y="1288" width="204" height="49" as="geometry" />
@@ -85,11 +85,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-52" target="HTGalz8Vl7RqY7RZ8qYq-53">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-53" target="HTGalz8Vl7RqY7RZ8qYq-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
