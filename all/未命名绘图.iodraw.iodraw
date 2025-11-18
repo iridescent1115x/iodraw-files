@@ -89,11 +89,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HTGalz8Vl7RqY7RZ8qYq-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-53" target="HTGalz8Vl7RqY7RZ8qYq-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-54" target="HTGalz8Vl7RqY7RZ8qYq-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -125,16 +120,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-71" value="遍历前 N 个启发式走子" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="64" y="1083" width="194" height="49" as="geometry" />
+          <mxGeometry x="872" y="450" width="194" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-72" value="调用 alpha_beta 递归搜索与剪枝" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="73" y="1181" width="177" height="66" as="geometry" />
+          <mxGeometry x="881" y="548" width="177" height="66" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-73" value="接收叶节点评估分值" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="59" y="1298" width="204" height="49" as="geometry" />
+          <mxGeometry x="867" y="665" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-74" value="回溯更新 alpha/beta 值" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="52" y="1396" width="218" height="218" as="geometry" />
+          <mxGeometry x="860" y="763" width="218" height="218" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-71" target="HTGalz8Vl7RqY7RZ8qYq-72">
           <mxGeometry relative="1" as="geometry">
