@@ -11,7 +11,7 @@
           <mxGeometry x="138" y="151" width="207" height="66" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-3" value="Evaluate 评估模块 Evaluate.h/cpp" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="161" y="290" width="161" height="66" as="geometry" />
+          <mxGeometry x="147" y="290" width="189" height="66" as="geometry" />
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-4" value="调用 getBestMove" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=0.99;entryX=0.31;entryY=0.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-1" target="HTGalz8Vl7RqY7RZ8qYq-2">
           <mxGeometry relative="1" as="geometry">
