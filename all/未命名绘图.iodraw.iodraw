@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="WqQJGe_Ks-aI3rVZQRrZ">
-    <mxGraphModel dx="1020" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1466" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,11 +21,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-5" value="调用 getValue/getPotential" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1.01;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-2" target="HTGalz8Vl7RqY7RZ8qYq-3">
-          <mxGeometry x="0.0081" y="-13" relative="1" as="geometry">
+          <mxGeometry x="0.1176" y="5" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="82" y="234" />
             </Array>
-            <mxPoint x="-3" y="-4" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HTGalz8Vl7RqY7RZ8qYq-6" value="返回估值/潜力值" style="curved=1;startArrow=none;endArrow=block;exitX=0.77;exitY=0;entryX=0.75;entryY=1.01;rounded=0;" edge="1" parent="1" source="HTGalz8Vl7RqY7RZ8qYq-3" target="HTGalz8Vl7RqY7RZ8qYq-2">
