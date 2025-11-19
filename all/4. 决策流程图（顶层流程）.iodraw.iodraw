@@ -74,13 +74,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-95" value="生成所有合法空位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="920" width="188" height="49" as="geometry" />
+          <mxGeometry x="160" y="990" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-96" value="潜力值排序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="184" y="994" width="140" height="49" as="geometry" />
+          <mxGeometry x="184" y="1064" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-97" value="递归 AlphaBeta" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="169" y="1064" width="170" height="49" as="geometry" />
+          <mxGeometry x="169" y="1140" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-100" target="-HWXF5w6bnxqRJbTwLuo-102">
           <mxGeometry relative="1" as="geometry" />
