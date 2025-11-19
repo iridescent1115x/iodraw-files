@@ -106,17 +106,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.73;entryY=-0.01;rounded=0;" edge="1" parent="-HWXF5w6bnxqRJbTwLuo-47" source="-HWXF5w6bnxqRJbTwLuo-53" target="-HWXF5w6bnxqRJbTwLuo-54">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="385" y="745" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-74" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-HWXF5w6bnxqRJbTwLuo-47">
           <mxGeometry x="151.5" y="405" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-76" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-HWXF5w6bnxqRJbTwLuo-47">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-76" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-HWXF5w6bnxqRJbTwLuo-47">
           <mxGeometry x="310" y="405" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-62" value="获得最佳 Index" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
