@@ -58,10 +58,10 @@
           <mxGeometry x="62" y="1680" width="168" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-63" value="坐标转换: Index 转为 Point xy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1760" width="252" height="66" as="geometry" />
+          <mxGeometry x="20" y="1760" width="252" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-64" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="77" y="1895" width="137" height="34" as="geometry" />
+          <mxGeometry x="77.5" y="1840" width="137" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-62" target="-HWXF5w6bnxqRJbTwLuo-63">
           <mxGeometry relative="1" as="geometry">
