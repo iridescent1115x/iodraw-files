@@ -24,16 +24,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-40" value="重置搜索器 和 识别当前颜色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="177" y="510" width="161" height="66" as="geometry" />
+          <mxGeometry x="397" y="340" width="161" height="66" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-41" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="169" y="610" width="177" height="80" as="geometry" />
+          <mxGeometry x="389" y="440" width="177" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-42" value="策略: 占领天元 (6,6)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="716" width="193" height="49" as="geometry" />
+          <mxGeometry x="240" y="546" width="193" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-43" value="进入 AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="716" width="200" height="49" as="geometry" />
+          <mxGeometry x="520" y="546" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-40" target="-HWXF5w6bnxqRJbTwLuo-41">
           <mxGeometry relative="1" as="geometry">
@@ -43,14 +43,14 @@
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-45" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-41" target="-HWXF5w6bnxqRJbTwLuo-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="117" y="679" />
+              <mxPoint x="337" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-46" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-41" target="-HWXF5w6bnxqRJbTwLuo-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="679" />
+              <mxPoint x="610" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
