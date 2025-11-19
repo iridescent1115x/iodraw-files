@@ -128,16 +128,16 @@
           <mxGeometry x="280" y="959" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-162" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1467" width="164" height="33" as="geometry" />
+          <mxGeometry x="100.5" y="1466" width="164" height="33" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-163" value="棋盘预处理与搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="214" y="1450" width="161" height="66" as="geometry" />
+          <mxGeometry x="294.5" y="1449" width="161" height="66" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-164" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="499.5" y="1449" width="176" height="67" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-165" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1183" y="1402" width="199" height="48" as="geometry" />
+          <mxGeometry x="1183" y="1406" width="199" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-166" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="708" y="1500" width="218" height="48" as="geometry" />
