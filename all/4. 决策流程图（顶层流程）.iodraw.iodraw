@@ -127,72 +127,72 @@
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-110" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="959" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-162" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-162" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="90" y="1534" width="178.5" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-163" value="棋盘预处理与&#xa;搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-163" value="棋盘预处理与&#xa;搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="298.5" y="1517" width="161" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-164" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-164" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="497" y="1517" width="182.5" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-165" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-165" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1187" y="1474" width="199" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-166" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-166" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="712" y="1568" width="218" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-167" value="得到最佳落子索引" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-167" value="得到最佳落子索引" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="967" y="1568" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-168" value="坐标转换为棋盘点" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-168" value="坐标转换为棋盘点" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1187" y="1568" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-169" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-169" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1428" y="1535" width="137" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-170" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;fontSize=16;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-162" target="-HWXF5w6bnxqRJbTwLuo-163">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-170" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;fontSize=17;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-162" target="-HWXF5w6bnxqRJbTwLuo-163">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-171" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=16;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-163" target="-HWXF5w6bnxqRJbTwLuo-164">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-171" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=17;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-163" target="-HWXF5w6bnxqRJbTwLuo-164">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-172" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.3;entryX=0;entryY=0.5;rounded=0;fontSize=16;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-164" target="-HWXF5w6bnxqRJbTwLuo-165">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-172" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.3;entryX=0;entryY=0.5;rounded=0;fontSize=17;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-164" target="-HWXF5w6bnxqRJbTwLuo-165">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="662" y="1502" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-173" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.27;entryY=-0.02;rounded=0;fontSize=16;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-165" target="-HWXF5w6bnxqRJbTwLuo-169">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-173" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.27;entryY=-0.02;rounded=0;fontSize=17;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-165" target="-HWXF5w6bnxqRJbTwLuo-169">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1466" y="1496" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-174" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0;entryY=0.51;rounded=0;fontSize=16;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-164" target="-HWXF5w6bnxqRJbTwLuo-166">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-174" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0;entryY=0.51;rounded=0;fontSize=17;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-164" target="-HWXF5w6bnxqRJbTwLuo-166">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="662" y="1600" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-175" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;fontSize=16;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-166" target="-HWXF5w6bnxqRJbTwLuo-167">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-175" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;fontSize=17;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-166" target="-HWXF5w6bnxqRJbTwLuo-167">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-176" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;fontSize=16;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-167" target="-HWXF5w6bnxqRJbTwLuo-168">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-176" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;fontSize=17;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-167" target="-HWXF5w6bnxqRJbTwLuo-168">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-177" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.27;entryY=1;rounded=0;fontSize=16;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-168" target="-HWXF5w6bnxqRJbTwLuo-169">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-177" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.27;entryY=1;rounded=0;fontSize=17;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-168" target="-HWXF5w6bnxqRJbTwLuo-169">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1466" y="1594" />
