@@ -130,7 +130,7 @@
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-162" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="100.5" y="1466" width="164" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-163" value="棋盘预处理与搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-163" value="棋盘预处理与&#xa;搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="294.5" y="1449" width="161" height="66" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-164" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
