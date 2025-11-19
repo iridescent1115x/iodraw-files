@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-47" value="核心搜索过程" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="10" y="810" width="513" height="861" as="geometry" />
+          <mxGeometry x="10" y="820" width="513" height="861" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-48" value="生成所有合法空位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-HWXF5w6bnxqRJbTwLuo-47">
           <mxGeometry x="170" y="46" width="188" height="49" as="geometry" />
@@ -134,16 +134,6 @@
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-66" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-63" target="-HWXF5w6bnxqRJbTwLuo-64">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-71" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="1290" as="sourcePoint" />
-            <mxPoint x="310" y="1240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="310" y="1290" />
-              <mxPoint x="260" y="1240" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
