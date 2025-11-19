@@ -137,7 +137,7 @@
           <mxGeometry x="497" y="1517" width="182.5" height="67" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-165" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1187" y="1474" width="199" height="48" as="geometry" />
+          <mxGeometry x="967" y="1465" width="199" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-166" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="712" y="1568" width="218" height="48" as="geometry" />
