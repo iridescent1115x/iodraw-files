@@ -131,10 +131,10 @@
           <mxGeometry x="20" y="1467" width="164" height="33" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-163" value="棋盘预处理与搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="234" y="1450" width="161" height="66" as="geometry" />
+          <mxGeometry x="214" y="1450" width="161" height="66" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-164" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="445" y="1454" width="176" height="67" as="geometry" />
+          <mxGeometry x="406" y="1449" width="176" height="67" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-165" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1228" y="1410" width="199" height="48" as="geometry" />
