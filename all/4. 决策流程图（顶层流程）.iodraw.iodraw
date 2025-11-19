@@ -1,53 +1,53 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="I7B9Ol7FRt6UIS-CX52l">
-    <mxGraphModel dx="2386" dy="1338" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="644" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-35" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-35" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="56.5" y="40" width="164" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-36" value="数据转换: ChessBoard 转 status 数组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-36" value="数据转换: ChessBoard 转 status 数组" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="20" y="104" width="237" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-37" value="重置搜索器和识别当前颜色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-37" value="重置搜索器和识别当前颜色" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="58" y="190" width="161" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-35" target="-HWXF5w6bnxqRJbTwLuo-36">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=14;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-35" target="-HWXF5w6bnxqRJbTwLuo-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-36" target="-HWXF5w6bnxqRJbTwLuo-37">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=14;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-36" target="-HWXF5w6bnxqRJbTwLuo-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-40" value="重置搜索器和识别当前颜色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-40" value="重置搜索器和识别当前颜色" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="463.5" y="290" width="161" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-41" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-41" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="455.5" y="390" width="177" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-42" value="策略: 占领天元 (6,6)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-42" value="策略: 占领天元 (6,6)" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="306.5" y="496" width="193" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-43" value="进入 AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-43" value="进入 AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="586.5" y="496" width="200" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-40" target="-HWXF5w6bnxqRJbTwLuo-41">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=14;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-40" target="-HWXF5w6bnxqRJbTwLuo-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-45" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-41" target="-HWXF5w6bnxqRJbTwLuo-42">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-45" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;fontSize=14;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-41" target="-HWXF5w6bnxqRJbTwLuo-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="403.5" y="459" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-46" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-41" target="-HWXF5w6bnxqRJbTwLuo-43">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-46" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=-0.01;rounded=0;fontSize=14;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-41" target="-HWXF5w6bnxqRJbTwLuo-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="676.5" y="459" />
