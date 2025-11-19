@@ -66,7 +66,7 @@
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-50" value="递归 AlphaBeta" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-HWXF5w6bnxqRJbTwLuo-47">
           <mxGeometry x="179" y="190" width="170" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-HWXF5w6bnxqRJbTwLuo-47" source="-HWXF5w6bnxqRJbTwLuo-74" target="-HWXF5w6bnxqRJbTwLuo-52">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-HWXF5w6bnxqRJbTwLuo-47" source="-HWXF5w6bnxqRJbTwLuo-51" target="-HWXF5w6bnxqRJbTwLuo-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-HWXF5w6bnxqRJbTwLuo-47" source="-HWXF5w6bnxqRJbTwLuo-51" target="-HWXF5w6bnxqRJbTwLuo-53">
@@ -114,13 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-74" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-HWXF5w6bnxqRJbTwLuo-47">
-          <mxGeometry x="155" y="410" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="-HWXF5w6bnxqRJbTwLuo-47" source="-HWXF5w6bnxqRJbTwLuo-51" target="-HWXF5w6bnxqRJbTwLuo-74">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="238" y="1209" as="sourcePoint" />
-            <mxPoint x="146" y="1290" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="151.5" y="405" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-62" value="获得最佳 Index" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="62" y="1680" width="168" height="49" as="geometry" />
