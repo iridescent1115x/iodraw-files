@@ -73,10 +73,10 @@
           <mxGeometry x="40" y="430" width="191" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-53" value="进入下一层 深度+1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-HWXF5w6bnxqRJbTwLuo-47">
-          <mxGeometry x="288" y="659" width="194" height="49" as="geometry" />
+          <mxGeometry x="288" y="430" width="194" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-54" value="回溯更新 Alpha/Beta" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-HWXF5w6bnxqRJbTwLuo-47">
-          <mxGeometry x="159" y="783" width="210" height="49" as="geometry" />
+          <mxGeometry x="151.5" y="550" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="-HWXF5w6bnxqRJbTwLuo-47" source="-HWXF5w6bnxqRJbTwLuo-48" target="-HWXF5w6bnxqRJbTwLuo-49">
           <mxGeometry relative="1" as="geometry">
