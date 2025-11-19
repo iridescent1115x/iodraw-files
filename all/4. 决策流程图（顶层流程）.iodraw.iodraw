@@ -128,7 +128,7 @@
           <mxGeometry x="280" y="959" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-162" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1534" width="178.5" height="33" as="geometry" />
+          <mxGeometry x="83" y="1534" width="185.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-163" value="棋盘预处理与&#xa;搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="298.5" y="1517" width="161" height="66" as="geometry" />
