@@ -1,0 +1,118 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="zt8-AYiNOiG4q9GGEpFZ">
+    <mxGraphModel dx="1380" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7CaooaXbbUtkGecUxlJa-1" value="GameControl" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=27.142857142857142;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="20" width="112" height="89.14285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-2" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-1">
+          <mxGeometry y="27.142857142857142" width="112" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-3" value="+run()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-1">
+          <mxGeometry y="35.14285714285714" width="112" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-4" value="+play()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-1">
+          <mxGeometry y="62.14285714285714" width="112" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-5" value="&lt;&lt;Interface&gt;&gt;&#xa;AI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=46.777781168619796;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="41" y="192" width="301" height="147.7777811686198" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-6" value="-AB searchEngine" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-5">
+          <mxGeometry y="46.777781168619796" width="301" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-7" value="-Judge ruleChecker" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-5">
+          <mxGeometry y="77.7777811686198" width="301" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-8" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-5">
+          <mxGeometry y="108.7777811686198" width="301" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-9" value="+GiveChess(ChessBoard board) : : Chess" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-5">
+          <mxGeometry y="116.7777811686198" width="301" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-10" value="&lt;&lt;CoreAlgorithm&gt;&gt;&#xa;AlphaBeta" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=42.84615501990685;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="409" width="343" height="195.84615501990686" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-11" value="-Evaluate* evaluator" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-10">
+          <mxGeometry y="42.84615501990685" width="343" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-12" value="-unordered_map transpositionTable" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-10">
+          <mxGeometry y="71.84615501990686" width="343" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-13" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-10">
+          <mxGeometry y="100.84615501990686" width="343" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-14" value="+init(board)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-10">
+          <mxGeometry y="108.84615501990686" width="343" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-15" value="+getbestMove() : : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-10">
+          <mxGeometry y="137.84615501990686" width="343" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-16" value="+alpha_beta(depth, alpha, beta, color) : : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-10">
+          <mxGeometry y="166.84615501990686" width="343" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-17" value="&lt;&lt;HeuristicFunction&gt;&gt;&#xa;Evaluate" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40.75;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="56" y="671" width="271" height="156.75" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-18" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-17">
+          <mxGeometry y="40.75" width="271" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-19" value="+Evaluate(status[])" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-17">
+          <mxGeometry y="48.75" width="271" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-20" value="+getValue() : : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-17">
+          <mxGeometry y="75.75" width="271" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-21" value="+getChessTotalPotential(x, y) : : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-17">
+          <mxGeometry y="102.75" width="271" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-22" value="-calcShortestPath()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="7CaooaXbbUtkGecUxlJa-17">
+          <mxGeometry y="129.75" width="271" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-23" value="step1_请求落子" style="curved=1;dashed=1;startArrow=none;endArrow=open;endSize=12;exitX=0.15;exitY=1;entryX=0.35;entryY=0;rounded=0;" edge="1" parent="1" source="7CaooaXbbUtkGecUxlJa-1" target="7CaooaXbbUtkGecUxlJa-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="126" y="157" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-24" value="step2_启动搜索" style="curved=1;startArrow=none;endArrow=open;endSize=12;exitX=0.35;exitY=1;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" source="7CaooaXbbUtkGecUxlJa-5" target="7CaooaXbbUtkGecUxlJa-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="126" y="374" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-25" value="step3_创建评估" style="curved=1;dashed=1;startArrow=none;endArrow=open;endSize=12;exitX=0.36;exitY=1;entryX=0.33;entryY=0;rounded=0;" edge="1" parent="1" source="7CaooaXbbUtkGecUxlJa-10" target="7CaooaXbbUtkGecUxlJa-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="126" y="637" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-26" value="step4_返回评分" style="curved=1;startArrow=none;endArrow=open;endSize=12;exitX=0.67;exitY=0;entryX=0.64;entryY=1;rounded=0;" edge="1" parent="1" source="7CaooaXbbUtkGecUxlJa-17" target="7CaooaXbbUtkGecUxlJa-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="257" y="637" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-27" value="step5_最优索引" style="curved=1;startArrow=none;endArrow=open;endSize=12;exitX=0.64;exitY=0;entryX=0.65;entryY=1;rounded=0;" edge="1" parent="1" source="7CaooaXbbUtkGecUxlJa-10" target="7CaooaXbbUtkGecUxlJa-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="257" y="374" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7CaooaXbbUtkGecUxlJa-28" value="step6_返回棋子" style="curved=1;startArrow=none;endArrow=open;endSize=12;exitX=0.65;exitY=0;entryX=0.85;entryY=1;rounded=0;" edge="1" parent="1" source="7CaooaXbbUtkGecUxlJa-5" target="7CaooaXbbUtkGecUxlJa-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="257" y="157" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
