@@ -134,7 +134,7 @@
           <mxGeometry x="298.5" y="1517" width="161" height="66" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-164" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="497" y="1517" width="182.5" height="67" as="geometry" />
+          <mxGeometry x="497" y="1517" width="192" height="67" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-165" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="967" y="1465" width="199" height="48" as="geometry" />
