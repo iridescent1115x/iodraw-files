@@ -61,10 +61,10 @@
           <mxGeometry x="170" y="46" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-49" value="潜力值排序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-HWXF5w6bnxqRJbTwLuo-47">
-          <mxGeometry x="194" y="169" width="140" height="49" as="geometry" />
+          <mxGeometry x="194" y="120" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-50" value="递归 AlphaBeta" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="-HWXF5w6bnxqRJbTwLuo-47">
-          <mxGeometry x="179" y="293" width="170" height="49" as="geometry" />
+          <mxGeometry x="179" y="190" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-51" value="到达最大深度" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="-HWXF5w6bnxqRJbTwLuo-47">
           <mxGeometry x="192" y="417" width="145" height="145" as="geometry" />
