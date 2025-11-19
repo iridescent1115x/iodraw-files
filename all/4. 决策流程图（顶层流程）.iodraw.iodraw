@@ -137,7 +137,7 @@
           <mxGeometry x="499.5" y="1449" width="176" height="67" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-165" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1183" y="1412" width="199" height="48" as="geometry" />
+          <mxGeometry x="1183" y="1402" width="199" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-166" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="708" y="1500" width="218" height="48" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="1183" y="1500" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-169" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1429" y="1466" width="137" height="33" as="geometry" />
+          <mxGeometry x="1424" y="1467" width="137" height="33" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-170" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-162" target="-HWXF5w6bnxqRJbTwLuo-163">
           <mxGeometry relative="1" as="geometry">
