@@ -11,7 +11,7 @@
           <mxGeometry x="20" y="144" width="237" height="66" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-37" value="重置搜索器 和 识别当前颜色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="58" y="260" width="161" height="66" as="geometry" />
+          <mxGeometry x="58" y="240" width="161" height="66" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-35" target="-HWXF5w6bnxqRJbTwLuo-36">
           <mxGeometry relative="1" as="geometry">
@@ -33,7 +33,7 @@
           <mxGeometry x="20" y="716" width="193" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-43" value="进入 AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="280" y="716" width="237" height="49" as="geometry" />
+          <mxGeometry x="300" y="716" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="-HWXF5w6bnxqRJbTwLuo-40" target="-HWXF5w6bnxqRJbTwLuo-41">
           <mxGeometry relative="1" as="geometry">
