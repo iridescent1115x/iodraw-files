@@ -16,7 +16,7 @@
         <mxCell id="7CaooaXbbUtkGecUxlJa-4" value="+play()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;curveFitting=1;jiggle=2;swimlaneLine=1;" parent="7CaooaXbbUtkGecUxlJa-1" vertex="1">
           <mxGeometry y="62.14285714285714" width="112" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="7CaooaXbbUtkGecUxlJa-5" value="&lt;&lt;Interface&gt;&gt;&#xa;AI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=46.777781168619796;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;sketch=1;curveFitting=1;jiggle=2;swimlaneLine=1;" parent="1" vertex="1">
+        <mxCell id="7CaooaXbbUtkGecUxlJa-5" value="&lt;&lt;Interface&gt;&gt;&#xa;AI" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=46.777781168619796;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;sketch=1;curveFitting=1;jiggle=2;swimlaneLine=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="41" y="192" width="301" height="147.7777811686198" as="geometry" />
         </mxCell>
         <mxCell id="7CaooaXbbUtkGecUxlJa-6" value="-AB searchEngine" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;curveFitting=1;jiggle=2;swimlaneLine=1;" parent="7CaooaXbbUtkGecUxlJa-5" vertex="1">
@@ -31,7 +31,7 @@
         <mxCell id="7CaooaXbbUtkGecUxlJa-9" value="+GiveChess(ChessBoard board) : : Chess" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;curveFitting=1;jiggle=2;swimlaneLine=1;" parent="7CaooaXbbUtkGecUxlJa-5" vertex="1">
           <mxGeometry y="116.7777811686198" width="301" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="7CaooaXbbUtkGecUxlJa-10" value="&lt;&lt;CoreAlgorithm&gt;&gt;&#xa;AlphaBeta" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=42.84615501990685;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;sketch=1;curveFitting=1;jiggle=2;swimlaneLine=1;" parent="1" vertex="1">
+        <mxCell id="7CaooaXbbUtkGecUxlJa-10" value="&lt;&lt;CoreAlgorithm&gt;&gt;&#xa;AlphaBeta" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=42.84615501990685;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;sketch=1;curveFitting=1;jiggle=2;swimlaneLine=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="409" width="343" height="195.84615501990686" as="geometry" />
         </mxCell>
         <mxCell id="7CaooaXbbUtkGecUxlJa-11" value="-Evaluate* evaluator" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;curveFitting=1;jiggle=2;swimlaneLine=1;" parent="7CaooaXbbUtkGecUxlJa-10" vertex="1">
@@ -52,7 +52,7 @@
         <mxCell id="7CaooaXbbUtkGecUxlJa-16" value="+alpha_beta(depth, alpha, beta, color) : : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;curveFitting=1;jiggle=2;swimlaneLine=1;" parent="7CaooaXbbUtkGecUxlJa-10" vertex="1">
           <mxGeometry y="166.84615501990686" width="343" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="7CaooaXbbUtkGecUxlJa-17" value="&lt;&lt;HeuristicFunction&gt;&gt;&#xa;Evaluate" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40.75;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;sketch=1;curveFitting=1;jiggle=2;swimlaneLine=1;" parent="1" vertex="1">
+        <mxCell id="7CaooaXbbUtkGecUxlJa-17" value="&lt;&lt;HeuristicFunction&gt;&gt;&#xa;Evaluate" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40.75;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;sketch=1;curveFitting=1;jiggle=2;swimlaneLine=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="56" y="671" width="271" height="156.75" as="geometry" />
         </mxCell>
         <mxCell id="7CaooaXbbUtkGecUxlJa-18" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;sketch=1;curveFitting=1;jiggle=2;swimlaneLine=1;" parent="7CaooaXbbUtkGecUxlJa-17" vertex="1">
