@@ -130,10 +130,10 @@
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-162" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="83" y="1534" width="185.5" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-163" value="棋盘预处理与&#xa;搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-163" value="棋盘预处理与&#xa;搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="298.5" y="1517" width="161" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-164" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-164" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="497" y="1517" width="192" height="67" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-165" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
