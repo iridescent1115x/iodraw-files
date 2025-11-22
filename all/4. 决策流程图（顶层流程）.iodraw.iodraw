@@ -57,10 +57,10 @@
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-62" value="获得最佳 Index" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontFamily=Comic Sans MS;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="582" y="1180" width="168" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-63" value="坐标转换: Index 转为 Point xy" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontFamily=Comic Sans MS;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-63" value="坐标转换: Index 转为 Point xy" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontFamily=Comic Sans MS;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="540" y="1260" width="252" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-64" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=15;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-64" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=15;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontStyle=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="597.5" y="1340" width="137" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;fontStyle=0" parent="1" source="-HWXF5w6bnxqRJbTwLuo-62" target="-HWXF5w6bnxqRJbTwLuo-63" edge="1">
@@ -146,7 +146,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-1" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-1" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="56.25" y="1787" width="164" height="34" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-2" value="棋盘预处理与搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
