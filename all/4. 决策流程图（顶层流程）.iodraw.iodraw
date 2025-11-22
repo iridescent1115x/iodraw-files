@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="I7B9Ol7FRt6UIS-CX52l">
-    <mxGraphModel dx="1955" dy="1102" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,8 +203,8 @@
         <mxCell id="664XmIrc22xhkzG3gjRx-1" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="166" y="1637" width="164" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-2" value="棋盘预处理 与 搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="168" y="1697" width="161" height="66" as="geometry" />
+        <mxCell id="664XmIrc22xhkzG3gjRx-2" value="棋盘预处理与搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="168" y="1697" width="161" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-3" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="159" y="1995" width="177" height="69" as="geometry" />
