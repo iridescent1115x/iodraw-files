@@ -212,13 +212,13 @@
         <mxCell id="664XmIrc22xhkzG3gjRx-4" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="38" y="1928" width="154.25" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-5" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-5" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="290.25" y="1853" width="191" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-6" value="得到最佳落子索引" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-6" value="得到最佳落子索引" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="291.75" y="1928" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-7" value="坐标转换为棋盘点" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-7" value="坐标转换为棋盘点" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="291.75" y="2002" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-8" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
