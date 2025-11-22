@@ -216,10 +216,10 @@
           <mxGeometry x="276" y="2076" width="218" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-6" value="得到最佳落子索引" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="276" y="2208" width="188" height="49" as="geometry" />
+          <mxGeometry x="291" y="2151" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-7" value="坐标转换为棋盘点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="276" y="2306" width="188" height="49" as="geometry" />
+          <mxGeometry x="291" y="2225" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-8" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="179" y="2405" width="137" height="34" as="geometry" />
