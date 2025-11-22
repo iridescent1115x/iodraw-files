@@ -207,22 +207,22 @@
           <mxGeometry x="168" y="1697" width="161" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-3" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="159" y="1995" width="177" height="69" as="geometry" />
+          <mxGeometry x="159.75" y="1786" width="177" height="69" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-4" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="14" y="2151" width="199" height="49" as="geometry" />
+          <mxGeometry x="14.75" y="1942" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-5" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="289.5" y="2076" width="191" height="49" as="geometry" />
+          <mxGeometry x="290.25" y="1867" width="191" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-6" value="得到最佳落子索引" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="291" y="2151" width="188" height="49" as="geometry" />
+          <mxGeometry x="291.75" y="1942" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-7" value="坐标转换为棋盘点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="291" y="2225" width="188" height="49" as="geometry" />
+          <mxGeometry x="291.75" y="2016" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-8" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="199" y="2299" width="137" height="34" as="geometry" />
+          <mxGeometry x="199.75" y="2090" width="137" height="34" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-1" target="664XmIrc22xhkzG3gjRx-2">
           <mxGeometry relative="1" as="geometry">
@@ -237,7 +237,7 @@
         <mxCell id="664XmIrc22xhkzG3gjRx-11" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-3" target="664XmIrc22xhkzG3gjRx-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="126" y="2050" />
+              <mxPoint x="126.75" y="1841" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -251,7 +251,7 @@
         <mxCell id="664XmIrc22xhkzG3gjRx-13" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-3" target="664XmIrc22xhkzG3gjRx-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="2050" />
+              <mxPoint x="370.75" y="1841" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -268,7 +268,7 @@
         <mxCell id="664XmIrc22xhkzG3gjRx-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.86;entryY=0;rounded=0;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-7" target="664XmIrc22xhkzG3gjRx-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="2324" />
+              <mxPoint x="370.75" y="2115" />
             </Array>
           </mxGeometry>
         </mxCell>
