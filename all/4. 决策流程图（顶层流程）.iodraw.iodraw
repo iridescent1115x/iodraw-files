@@ -222,7 +222,7 @@
           <mxGeometry x="291" y="2225" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-8" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="207" y="2419" width="137" height="34" as="geometry" />
+          <mxGeometry x="207" y="2336" width="137" height="34" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-1" target="664XmIrc22xhkzG3gjRx-2">
           <mxGeometry relative="1" as="geometry">
@@ -268,7 +268,7 @@
         <mxCell id="664XmIrc22xhkzG3gjRx-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.86;entryY=0;rounded=0;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-7" target="664XmIrc22xhkzG3gjRx-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="407" y="2383" />
+              <mxPoint x="373" y="2328" />
             </Array>
           </mxGeometry>
         </mxCell>
