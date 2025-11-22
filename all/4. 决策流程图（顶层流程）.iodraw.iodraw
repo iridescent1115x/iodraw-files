@@ -287,7 +287,7 @@
           <mxGeometry x="811" y="2123" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-25" value="递归 AlphaBeta" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontFamily=Comic Sans MS;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="796" y="2247" width="170" height="49" as="geometry" />
+          <mxGeometry x="796" y="2437" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-26" value="到达最大深度" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=16;fontFamily=Comic Sans MS;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="808.5" y="2507" width="145" height="60" as="geometry" />
