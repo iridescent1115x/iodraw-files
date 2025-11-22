@@ -222,7 +222,7 @@
           <mxGeometry x="291.75" y="2002" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-8" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="199.75" y="2076" width="137" height="34" as="geometry" />
+          <mxGeometry x="179.75" y="2076" width="137" height="34" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=14;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-1" target="664XmIrc22xhkzG3gjRx-2">
           <mxGeometry relative="1" as="geometry">
