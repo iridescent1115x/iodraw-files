@@ -200,41 +200,41 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-1" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-1" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="166" y="1637" width="164" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-2" value="棋盘预处理与搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-2" value="棋盘预处理与搜索器初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="159.75" y="1697" width="177" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-3" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-3" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="159.75" y="1772" width="177" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-4" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-4" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="38" y="1928" width="154.25" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-5" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-5" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="290.25" y="1853" width="191" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-6" value="得到最佳落子索引" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-6" value="得到最佳落子索引" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="291.75" y="1928" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-7" value="坐标转换为棋盘点" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-7" value="坐标转换为棋盘点" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="291.75" y="2002" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-8" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-8" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="179.75" y="2076" width="137" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=14;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-1" target="664XmIrc22xhkzG3gjRx-2">
+        <mxCell id="664XmIrc22xhkzG3gjRx-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-1" target="664XmIrc22xhkzG3gjRx-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=14;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-2" target="664XmIrc22xhkzG3gjRx-3">
+        <mxCell id="664XmIrc22xhkzG3gjRx-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-2" target="664XmIrc22xhkzG3gjRx-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-11" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=14;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-3" target="664XmIrc22xhkzG3gjRx-4">
+        <mxCell id="664XmIrc22xhkzG3gjRx-11" value="Yes" style="curved=1;startArrow=none;endArrow=block;exitX=0.01;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-3" target="664XmIrc22xhkzG3gjRx-4">
           <mxGeometry x="0.2302" y="14" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="126.75" y="1827" />
@@ -242,31 +242,31 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-4" target="664XmIrc22xhkzG3gjRx-8">
+        <mxCell id="664XmIrc22xhkzG3gjRx-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-4" target="664XmIrc22xhkzG3gjRx-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="117" y="2059" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-13" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=14;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-3" target="664XmIrc22xhkzG3gjRx-5">
+        <mxCell id="664XmIrc22xhkzG3gjRx-13" value="No" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-3" target="664XmIrc22xhkzG3gjRx-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370.75" y="1827" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=14;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-5" target="664XmIrc22xhkzG3gjRx-6">
+        <mxCell id="664XmIrc22xhkzG3gjRx-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-5" target="664XmIrc22xhkzG3gjRx-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;fontSize=14;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-6" target="664XmIrc22xhkzG3gjRx-7">
+        <mxCell id="664XmIrc22xhkzG3gjRx-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-6" target="664XmIrc22xhkzG3gjRx-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;fontSize=14;entryDx=0;entryDy=0;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-7" target="664XmIrc22xhkzG3gjRx-8">
+        <mxCell id="664XmIrc22xhkzG3gjRx-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;fontSize=14;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="664XmIrc22xhkzG3gjRx-7" target="664XmIrc22xhkzG3gjRx-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="371" y="2079" />
