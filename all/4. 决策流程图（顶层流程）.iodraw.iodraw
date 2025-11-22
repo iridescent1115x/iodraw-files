@@ -290,7 +290,7 @@
           <mxGeometry x="796" y="2247" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-26" value="到达最大深度" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="809" y="2371" width="145" height="145" as="geometry" />
+          <mxGeometry x="809" y="2371" width="145" height="51" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-27" value="静态评估 Evaluate" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="665" y="2613" width="191" height="49" as="geometry" />
