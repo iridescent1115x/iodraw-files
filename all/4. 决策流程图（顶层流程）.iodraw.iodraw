@@ -155,16 +155,16 @@
         <mxCell id="664XmIrc22xhkzG3gjRx-3" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="49.75" y="1924" width="177" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-4" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-4" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-72" y="2080" width="154.25" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-5" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-5" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180.25" y="2005" width="191" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-6" value="得到最佳落子索引" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-6" value="得到最佳落子索引" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="181.75" y="2080" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-7" value="坐标转换为棋盘点" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-7" value="坐标转换为棋盘点" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="181.75" y="2154" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-8" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=14;fontFamily=Comic Sans MS;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
