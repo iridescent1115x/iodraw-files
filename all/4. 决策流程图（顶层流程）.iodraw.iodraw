@@ -280,7 +280,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="664XmIrc22xhkzG3gjRx-23" value="生成所有合法空位" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontFamily=Comic Sans MS;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="664XmIrc22xhkzG3gjRx-23" value="生成所有合法空位" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontFamily=Comic Sans MS;fontStyle=0;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="787" y="2283" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-24" value="潜力值排序" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;fontFamily=Comic Sans MS;fontStyle=0" vertex="1" parent="1">
