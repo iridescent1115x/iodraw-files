@@ -281,7 +281,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-22" value="核心搜索过程" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2283" width="513" height="861" as="geometry" />
+          <mxGeometry x="716" y="2011" width="513" height="861" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-23" value="生成所有合法空位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="664XmIrc22xhkzG3gjRx-22">
           <mxGeometry x="170" y="46" width="188" height="49" as="geometry" />
