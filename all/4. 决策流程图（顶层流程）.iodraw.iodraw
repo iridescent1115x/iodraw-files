@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="I7B9Ol7FRt6UIS-CX52l">
-    <mxGraphModel dx="1955" dy="1102" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2346" dy="1322" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,16 +136,16 @@
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-164" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="497" y="1517" width="192" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-165" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-165" value="快速策略: 占领天元" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="967" y="1465" width="199" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-166" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-166" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="729" y="1568" width="218" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-167" value="得到最佳落子索引" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-167" value="得到最佳落子索引" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="984" y="1568" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-168" value="坐标转换为棋盘点" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-168" value="坐标转换为棋盘点" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1204" y="1568" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-169" value="返回 Chess 对象" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
