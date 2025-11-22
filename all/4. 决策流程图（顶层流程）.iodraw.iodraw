@@ -26,13 +26,13 @@
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-40" value="重置搜索器和识别当前颜色" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="463.5" y="290" width="161" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-41" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-41" value="是否为开局第一手" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=13;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="455.5" y="390" width="177" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-42" value="策略: 占领天元 (6,6)" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-42" value="策略: 占领天元 (6,6)" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="306.5" y="496" width="193" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-43" value="进入 AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-43" value="进入 AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="586.5" y="496" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="-HWXF5w6bnxqRJbTwLuo-40" target="-HWXF5w6bnxqRJbTwLuo-41" edge="1">
@@ -73,7 +73,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-95" value="生成所有合法空位" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-95" value="生成所有合法空位" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;sketch=1;curveFitting=1;jiggle=2;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="670" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-HWXF5w6bnxqRJbTwLuo-96" value="潜力值排序" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
