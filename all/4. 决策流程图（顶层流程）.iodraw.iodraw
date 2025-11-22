@@ -4,21 +4,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-35" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-35" value="开始决策 GiveChess" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="56.5" y="40" width="164" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-36" value="数据转换: ChessBoard 转 status 数组" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-36" value="数据转换: ChessBoard 转 status 数组" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="20" y="104" width="237" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-37" value="重置搜索器和识别当前颜色" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-37" value="重置搜索器和识别当前颜色" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="48.5" y="190" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=13;" parent="1" source="-HWXF5w6bnxqRJbTwLuo-35" target="-HWXF5w6bnxqRJbTwLuo-36" edge="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="-HWXF5w6bnxqRJbTwLuo-35" target="-HWXF5w6bnxqRJbTwLuo-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-HWXF5w6bnxqRJbTwLuo-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=13;" parent="1" source="-HWXF5w6bnxqRJbTwLuo-36" target="-HWXF5w6bnxqRJbTwLuo-37" edge="1">
+        <mxCell id="-HWXF5w6bnxqRJbTwLuo-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="-HWXF5w6bnxqRJbTwLuo-36" target="-HWXF5w6bnxqRJbTwLuo-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
