@@ -213,7 +213,7 @@
           <mxGeometry x="14" y="2151" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-5" value="AlphaBeta 搜索主循环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="276" y="2076" width="218" height="49" as="geometry" />
+          <mxGeometry x="291" y="2076" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="664XmIrc22xhkzG3gjRx-6" value="得到最佳落子索引" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="291" y="2151" width="188" height="49" as="geometry" />
