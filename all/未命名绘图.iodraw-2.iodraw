@@ -237,10 +237,10 @@
         <mxCell id="17eIqfTgXT4sAHUzqdwF-48" value="用户提问" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
           <mxGeometry x="167" y="46" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-49" value="意图分析" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-49" value="意图分析" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
           <mxGeometry x="167" y="169" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-50" value="实体邻居检索" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-50" value="实体邻居检索" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
           <mxGeometry x="48" y="316" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-51" value="社区摘要检索" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
