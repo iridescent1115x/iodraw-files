@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="LBh90D2f4Ubeu9qT6wjs">
-    <mxGraphModel dx="1955" dy="1102" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3333" dy="1653" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -308,7 +308,7 @@
         <mxCell id="17eIqfTgXT4sAHUzqdwF-65" value="Leiden 社区聚类" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
           <mxGeometry x="59" y="540" width="177" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-66" value="生成社区摘要" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-66" value="生成社区摘要" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
           <mxGeometry x="69" y="664" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-67" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" edge="1" parent="17eIqfTgXT4sAHUzqdwF-60" source="17eIqfTgXT4sAHUzqdwF-61" target="17eIqfTgXT4sAHUzqdwF-62">
