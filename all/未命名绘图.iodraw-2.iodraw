@@ -243,13 +243,13 @@
         <mxCell id="17eIqfTgXT4sAHUzqdwF-50" value="实体邻居检索" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
           <mxGeometry x="48" y="316" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-51" value="社区摘要检索" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-51" value="社区摘要检索" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
           <mxGeometry x="254" y="316" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-52" value="大模型生成" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-52" value="大模型生成" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
           <mxGeometry x="159" y="439" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-53" value="最终回答 + 引用" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-53" value="最终回答 + 引用" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
           <mxGeometry x="141" y="563" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" edge="1" parent="17eIqfTgXT4sAHUzqdwF-47" source="17eIqfTgXT4sAHUzqdwF-48" target="17eIqfTgXT4sAHUzqdwF-49">
@@ -293,7 +293,7 @@
         <mxCell id="17eIqfTgXT4sAHUzqdwF-60" value="知识库构建阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="875.5" y="1974" width="278" height="742" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-61" value="地质学文献 PDF/TXT" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-61" value="地质学文献 PDF/TXT" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
           <mxGeometry x="43" y="46" width="208" height="49" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-62" value="文本切片" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
