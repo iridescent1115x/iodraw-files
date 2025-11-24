@@ -64,10 +64,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-18" value="AJAX" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=19;" edge="1" parent="1" source="17eIqfTgXT4sAHUzqdwF-5" target="17eIqfTgXT4sAHUzqdwF-8">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.2661" y="-27" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1173" y="119" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.3;exitY=1;entryX=0;entryY=0.02;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=19;" edge="1" parent="1" source="17eIqfTgXT4sAHUzqdwF-6" target="17eIqfTgXT4sAHUzqdwF-10">
