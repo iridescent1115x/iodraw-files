@@ -57,10 +57,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-17" value="SSE 流式请求" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=19;" edge="1" parent="1" source="17eIqfTgXT4sAHUzqdwF-5" target="17eIqfTgXT4sAHUzqdwF-7">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.5205" y="28" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="446" y="119" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-18" value="AJAX" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=19;" edge="1" parent="1" source="17eIqfTgXT4sAHUzqdwF-5" target="17eIqfTgXT4sAHUzqdwF-8">
