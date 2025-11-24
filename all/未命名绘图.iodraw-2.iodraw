@@ -337,7 +337,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-72" value="用户提交表单" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="246" y="2950" width="119" height="34" as="geometry" />
+          <mxGeometry x="233" y="2950" width="146" height="34" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-73" value="输入校验?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="246" y="3034" width="119" height="119" as="geometry" />
