@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="LBh90D2f4Ubeu9qT6wjs">
-    <mxGraphModel dx="3333" dy="1653" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="1102" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,8 +231,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-47" value="检索与生成阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="12.5" y="1866" width="441" height="641" as="geometry" />
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-47" value="检索与生成阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="2024.5" width="441" height="641" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-48" value="用户提问" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
           <mxGeometry x="167" y="46" width="124" height="49" as="geometry" />
