@@ -340,7 +340,7 @@
           <mxGeometry x="233" y="2950" width="146" height="34" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-73" value="输入校验?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="246" y="3034" width="119" height="119" as="geometry" />
+          <mxGeometry x="246" y="3072" width="119" height="81" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-74" value="提示: 输入不完整" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="116" y="3257" width="183" height="49" as="geometry" />
