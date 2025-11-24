@@ -296,16 +296,16 @@
         <mxCell id="17eIqfTgXT4sAHUzqdwF-61" value="地质学文献 PDF/TXT" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
           <mxGeometry x="43" y="46" width="208" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-62" value="文本切片" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-62" value="文本切片" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
           <mxGeometry x="85" y="169" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-63" value="实体与关系抽取" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-63" value="实体与关系抽取" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
           <mxGeometry x="61" y="293" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-64" value="构建知识图谱" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-64" value="构建知识图谱" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
           <mxGeometry x="69" y="417" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-65" value="Leiden 社区聚类" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-65" value="Leiden 社区聚类" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
           <mxGeometry x="59" y="540" width="177" height="49" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-66" value="生成社区摘要" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
