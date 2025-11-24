@@ -351,7 +351,7 @@
         <mxCell id="17eIqfTgXT4sAHUzqdwF-76" value="生成密码哈希 (Werkzeug)" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="34" y="3410" width="242" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-77" value="插入 Users 表" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;" vertex="1" parent="1">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-77" value="插入 Users 表" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="77" y="3590" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-78" value="跳转登录页" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;" vertex="1" parent="1">
@@ -363,7 +363,7 @@
         <mxCell id="17eIqfTgXT4sAHUzqdwF-80" value="查询 Users 表" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="561" y="3410" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-81" value="密码比对 (check_hash)" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;" vertex="1" parent="1">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-81" value="密码比对 (check_hash)" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="509" y="3509" width="262" height="175" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-82" value="设置 Session Cookie" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;" vertex="1" parent="1">
@@ -372,7 +372,7 @@
         <mxCell id="17eIqfTgXT4sAHUzqdwF-83" value="进入系统主页" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="436" y="3892" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-84" value="提示: 账号密码错误" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;" vertex="1" parent="1">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-84" value="提示: 账号密码错误" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="665" y="3793" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-85" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;" edge="1" parent="1" source="17eIqfTgXT4sAHUzqdwF-72" target="17eIqfTgXT4sAHUzqdwF-73">
