@@ -43,7 +43,7 @@
         <mxCell id="17eIqfTgXT4sAHUzqdwF-13" value="反馈表" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1254" y="398" width="108" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-14" value="阿里云百炼 API GraphRAG" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-14" value="GraphRAG" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="398" width="245" height="49" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-15" value="ChatAnywhere API+GPT-4o" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
