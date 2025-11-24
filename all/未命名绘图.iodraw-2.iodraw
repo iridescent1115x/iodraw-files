@@ -339,8 +339,8 @@
         <mxCell id="17eIqfTgXT4sAHUzqdwF-72" value="用户提交表单" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="226" y="2991" width="157" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-73" value="输入校验?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="3119" width="119" height="81" as="geometry" />
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-73" value="输入校验?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="224" y="3119" width="157" height="81" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-74" value="提示: 输入不完整" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="116" y="3257" width="183" height="49" as="geometry" />
