@@ -354,10 +354,10 @@
         <mxCell id="17eIqfTgXT4sAHUzqdwF-77" value="插入 Users 表" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="77" y="3590" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-78" value="跳转登录页" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-78" value="跳转登录页" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-25" y="3793" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-79" value="提示: 用户名已存在" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-79" value="提示: 用户名已存在" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="3793" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-80" value="查询 Users 表" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;" vertex="1" parent="1">
