@@ -231,7 +231,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-47" value="检索与生成阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-47" value="检索与生成阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="151" y="2008" width="441" height="641" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-48" value="用户提问" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-47">
@@ -290,7 +290,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-60" value="知识库构建阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;rounded=1;" vertex="1" parent="1">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-60" value="知识库构建阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="875.5" y="1974" width="278" height="742" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-61" value="地质学文献 PDF/TXT" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=20;rounded=1;" vertex="1" parent="17eIqfTgXT4sAHUzqdwF-60">
