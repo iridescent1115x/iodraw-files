@@ -117,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-25" value="用户前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontStyle=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-25" value="用户前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontStyle=0;fontSize=20;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="158" y="662" width="150" height="1108" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-26" value="Flask后端 (/ask)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontStyle=0;fontSize=20;" vertex="1" parent="1">
@@ -357,7 +357,7 @@
         <mxCell id="17eIqfTgXT4sAHUzqdwF-78" value="跳转登录页" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-25" y="3793" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="17eIqfTgXT4sAHUzqdwF-79" value="提示: 用户名已存在" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;" vertex="1" parent="1">
+        <mxCell id="17eIqfTgXT4sAHUzqdwF-79" value="提示: 用户名已存在" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="165" y="3793" width="199" height="49" as="geometry" />
         </mxCell>
         <mxCell id="17eIqfTgXT4sAHUzqdwF-80" value="查询 Users 表" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
