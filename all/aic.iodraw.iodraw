@@ -4,120 +4,120 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-29" value="结果输出层" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-29" value="结果输出层" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="1112" width="703" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-30" value="三维重构与分析层" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-30" value="三维重构与分析层" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="89" y="748" width="547" height="314" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-31" value="特征提取与聚类核心层" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-31" value="特征提取与聚类核心层" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="125" y="267" width="505" height="431" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-32" value="数据输入层" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-32" value="数据输入层" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="224" y="20" width="263" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-33" value="无人机/多源影像" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-33" value="无人机/多源影像" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="265" y="45" width="180" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-34" value="预处理: 灰度均衡/降噪" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-34" value="预处理: 灰度均衡/降噪" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="259" y="144" width="193" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-35" value="多模态特征融合" style="rhombus;strokeWidth=2;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-35" value="多模态特征融合" style="rhombus;strokeWidth=2;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="275" y="292" width="161" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-36" value="MeanShift 动态聚类" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-36" value="MeanShift 动态聚类" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="160" y="526" width="200" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-37" value="KD-Tree 空间索引" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-37" value="KD-Tree 空间索引" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="410" y="526" width="185" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-38" value="自适应颗粒分割" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-38" value="自适应颗粒分割" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="285" y="624" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-39" value="轻量化 CNN 三维重建网络" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-39" value="轻量化 CNN 三维重建网络" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="234" y="773" width="244" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-40" value="点云稀疏采样 &amp; 深度推断" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-40" value="点云稀疏采样 &amp; 深度推断" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="251" y="872" width="209" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-41" value="随机森林集成决策" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-41" value="随机森林集成决策" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="262" y="988" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-42" value="三维点云模型" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-42" value="三维点云模型" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="55" y="1137" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-43" value="颗粒级配曲线 GSD" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-43" value="颗粒级配曲线 GSD" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="261" y="1137" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-44" value="地质风险评估报告" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-44" value="地质风险评估报告" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="500" y="1137" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-33" target="q6zAdJmO2Z9aAgQLKW24-34">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-33" target="q6zAdJmO2Z9aAgQLKW24-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-34" target="q6zAdJmO2Z9aAgQLKW24-35">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-34" target="q6zAdJmO2Z9aAgQLKW24-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-47" value="RGB光谱特征" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-35" target="q6zAdJmO2Z9aAgQLKW24-36">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-47" value="RGB光谱特征" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-35" target="q6zAdJmO2Z9aAgQLKW24-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="489" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-48" value="几何深度信息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-35" target="q6zAdJmO2Z9aAgQLKW24-37">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-48" value="几何深度信息" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-35" target="q6zAdJmO2Z9aAgQLKW24-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="503" y="489" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.17;entryY=0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-36" target="q6zAdJmO2Z9aAgQLKW24-38">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.17;entryY=0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-36" target="q6zAdJmO2Z9aAgQLKW24-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="599" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.02;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-37" target="q6zAdJmO2Z9aAgQLKW24-38">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.02;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-37" target="q6zAdJmO2Z9aAgQLKW24-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="503" y="599" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-38" target="q6zAdJmO2Z9aAgQLKW24-39">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-38" target="q6zAdJmO2Z9aAgQLKW24-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-39" target="q6zAdJmO2Z9aAgQLKW24-40">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-39" target="q6zAdJmO2Z9aAgQLKW24-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-40" target="q6zAdJmO2Z9aAgQLKW24-41">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-40" target="q6zAdJmO2Z9aAgQLKW24-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-41" target="q6zAdJmO2Z9aAgQLKW24-42">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.92;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-41" target="q6zAdJmO2Z9aAgQLKW24-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="133" y="1062" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-41" target="q6zAdJmO2Z9aAgQLKW24-43">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-41" target="q6zAdJmO2Z9aAgQLKW24-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=16;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-41" target="q6zAdJmO2Z9aAgQLKW24-44">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-41" target="q6zAdJmO2Z9aAgQLKW24-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="594" y="1062" />
