@@ -124,8 +124,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-57" value="三维重构与分析层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="91" y="750" width="120" height="30" as="geometry" />
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-57" value="三维重构与分析层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="91" y="750" width="159" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
