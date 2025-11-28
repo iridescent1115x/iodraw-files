@@ -40,16 +40,16 @@
         <mxCell id="q6zAdJmO2Z9aAgQLKW24-40" value="点云稀疏采样 &amp; 深度推断" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="251" y="872" width="209" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-41" value="随机森林集成决策" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-41" value="随机森林集成决策" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="262" y="988" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-42" value="三维点云模型" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-42" value="三维点云模型" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="55" y="1137" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-43" value="颗粒级配曲线 GSD" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-43" value="颗粒级配曲线 GSD" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="261" y="1137" width="189" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-44" value="地质风险评估报告" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-44" value="地质风险评估报告" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="500" y="1137" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q6zAdJmO2Z9aAgQLKW24-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" edge="1" parent="1" source="q6zAdJmO2Z9aAgQLKW24-33" target="q6zAdJmO2Z9aAgQLKW24-34">
