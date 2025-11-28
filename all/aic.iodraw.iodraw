@@ -7,8 +7,8 @@
         <mxCell id="q6zAdJmO2Z9aAgQLKW24-29" value="结果输出层" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="20" y="1112" width="703" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-30" value="三维重构与分析层" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="370" y="748" width="547" height="314" as="geometry" />
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-30" value="" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="81.5" y="740" width="547" height="314" as="geometry" />
         </mxCell>
         <mxCell id="q6zAdJmO2Z9aAgQLKW24-31" value="特征提取与聚类核心层" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="125" y="267" width="505" height="431" as="geometry" />
