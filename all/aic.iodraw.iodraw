@@ -34,10 +34,10 @@
         <mxCell id="q6zAdJmO2Z9aAgQLKW24-38" value="自适应颗粒分割" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="285" y="624" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-39" value="轻量化 CNN 三维重建网络" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-39" value="轻量化 CNN 三维重建网络" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="234" y="782" width="244" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-40" value="点云稀疏采样 &amp; 深度推断" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-40" value="点云稀疏采样 &amp; 深度推断" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="251" y="872" width="209" height="66" as="geometry" />
         </mxCell>
         <mxCell id="q6zAdJmO2Z9aAgQLKW24-41" value="随机森林集成决策" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fontSize=18;" vertex="1" parent="1">
