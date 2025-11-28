@@ -22,10 +22,10 @@
         <mxCell id="q6zAdJmO2Z9aAgQLKW24-34" value="预处理: 灰度均衡/降噪" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="259" y="144" width="193" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-35" value="多模态特征融合" style="rhombus;strokeWidth=2;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-35" value="多模态特征融合" style="rhombus;strokeWidth=2;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="292" width="161" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="q6zAdJmO2Z9aAgQLKW24-36" value="MeanShift 动态聚类" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="q6zAdJmO2Z9aAgQLKW24-36" value="MeanShift 动态聚类" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="526" width="200" height="49" as="geometry" />
         </mxCell>
         <mxCell id="q6zAdJmO2Z9aAgQLKW24-37" value="KD-Tree 空间索引" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
