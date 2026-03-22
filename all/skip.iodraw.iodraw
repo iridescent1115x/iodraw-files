@@ -75,7 +75,7 @@
           <mxGeometry x="198.5" y="1290" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-19" value="解码器 2: RNN (conditional GRU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="499.5" y="1290" width="222" height="66" as="geometry" />
+          <mxGeometry x="477" y="1290" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-20" value="预测上一个句子: Si-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="190" y="1615" width="228" height="49" as="geometry" />
@@ -105,7 +105,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="1210" />
-              <mxPoint x="610" y="1290" />
             </Array>
           </mxGeometry>
         </mxCell>
