@@ -72,7 +72,7 @@
           <mxGeometry x="388.5" y="1140" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-18" value="解码器 1: RNN (conditional GRU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="193" y="1451" width="222" height="66" as="geometry" />
+          <mxGeometry x="198.5" y="1290" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-19" value="解码器 2: RNN (conditional GRU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="472" y="1451" width="222" height="66" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="1220" />
-              <mxPoint x="304" y="1402" />
+              <mxPoint x="304" y="1310" />
             </Array>
           </mxGeometry>
         </mxCell>
