@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="1qjF_40BdxT-dH3S59S8">
-    <mxGraphModel dx="1173" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1676" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,6 +58,61 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-14" value="逐词预测" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="ONbt_zy7PFrEN4vt_-Ka-1" source="ONbt_zy7PFrEN4vt_-Ka-6" target="ONbt_zy7PFrEN4vt_-Ka-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-15" value="输入句子: s_i" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="76" width="154" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-16" value="编码器: RNN (GRU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="244" y="222" width="166" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-17" value="句子向量: h_i" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="271" y="368" width="111" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-18" value="解码器 1: RNN (conditional GRU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="76" y="577" width="222" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-19" value="解码器 2: RNN (conditional GRU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="355" y="577" width="222" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-20" value="预测上一个句子: s_{i-1}" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="73" y="741" width="228" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-21" value="预测下一个句子: s_{i+1}" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="351" y="741" width="231" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-22" value="按时间步输入词向量" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ONbt_zy7PFrEN4vt_-Ka-15" target="ONbt_zy7PFrEN4vt_-Ka-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-23" value="最后一个时间步的隐藏状态" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ONbt_zy7PFrEN4vt_-Ka-16" target="ONbt_zy7PFrEN4vt_-Ka-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-24" value="作为条件输入" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ONbt_zy7PFrEN4vt_-Ka-17" target="ONbt_zy7PFrEN4vt_-Ka-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187" y="528" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-25" value="作为条件输入" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1.01;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ONbt_zy7PFrEN4vt_-Ka-17" target="ONbt_zy7PFrEN4vt_-Ka-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467" y="528" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-26" value="逐词预测" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ONbt_zy7PFrEN4vt_-Ka-18" target="ONbt_zy7PFrEN4vt_-Ka-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-27" value="逐词预测" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ONbt_zy7PFrEN4vt_-Ka-19" target="ONbt_zy7PFrEN4vt_-Ka-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
