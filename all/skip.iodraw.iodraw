@@ -96,6 +96,7 @@
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-24" value="作为条件输入" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ONbt_zy7PFrEN4vt_-Ka-17" target="ONbt_zy7PFrEN4vt_-Ka-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="320" y="1220" />
               <mxPoint x="304" y="1402" />
             </Array>
           </mxGeometry>
