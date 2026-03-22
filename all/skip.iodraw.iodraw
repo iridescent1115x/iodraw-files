@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-15" value="输入句子: si" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-15" value="输入句子: si" style="whiteSpace=wrap;strokeWidth=2;rounded=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="80" width="154" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-16" value="编码器: RNN (GRU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
