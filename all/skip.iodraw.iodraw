@@ -72,16 +72,16 @@
           <mxGeometry x="388.5" y="1140" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-18" value="解码器 1: RNN (conditional GRU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="193" y="1451" width="222" height="66" as="geometry" />
+          <mxGeometry x="192.5" y="1280" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-19" value="解码器 2: RNN (conditional GRU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="472" y="1451" width="222" height="66" as="geometry" />
+          <mxGeometry x="471.5" y="1280" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-20" value="预测上一个句子: s_{i-1}" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1615" width="228" height="49" as="geometry" />
+          <mxGeometry x="189.5" y="1444" width="228" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-21" value="预测下一个句子: s_{i+1}" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="468" y="1615" width="231" height="49" as="geometry" />
+          <mxGeometry x="467.5" y="1444" width="231" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-22" value="按时间步输入词向量" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ONbt_zy7PFrEN4vt_-Ka-15" target="ONbt_zy7PFrEN4vt_-Ka-16">
           <mxGeometry relative="1" as="geometry">
