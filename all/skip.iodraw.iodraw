@@ -1,14 +1,14 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="1qjF_40BdxT-dH3S59S8">
-    <mxGraphModel dx="1303" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-15" value="输入句子: si" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="90" width="154" height="49" as="geometry" />
+          <mxGeometry x="327.5" y="80" width="154" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-16" value="编码器: RNN (GRU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="321.5" y="190" width="166" height="49" as="geometry" />
+          <mxGeometry x="321.5" y="180" width="166" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-17" value="句子向量: hi" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="349" y="280" width="111" height="111" as="geometry" />
