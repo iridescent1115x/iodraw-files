@@ -102,10 +102,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-25" value="作为条件输入" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1.01;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ONbt_zy7PFrEN4vt_-Ka-17" target="ONbt_zy7PFrEN4vt_-Ka-19">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.41" y="-18" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="588" y="1220" />
             </Array>
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-26" value="逐词预测" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="ONbt_zy7PFrEN4vt_-Ka-18" target="ONbt_zy7PFrEN4vt_-Ka-20">
