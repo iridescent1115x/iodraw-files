@@ -66,7 +66,7 @@
           <mxGeometry x="367" y="950" width="154" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-16" value="编码器: RNN (GRU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="361" y="1096" width="166" height="49" as="geometry" />
+          <mxGeometry x="361" y="1040" width="166" height="49" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-17" value="句子向量: h_i" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="388" y="1242" width="111" height="111" as="geometry" />
