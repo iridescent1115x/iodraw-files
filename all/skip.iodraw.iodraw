@@ -13,10 +13,10 @@
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-17" value="句子向量: hi" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="349" y="280" width="111" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-18" value="解码器 1: RNN (conditional GRU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-18" value="解码器 1: RNN (conditional GRU)" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="162" y="430" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-19" value="解码器 2: RNN (conditional GRU)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="ONbt_zy7PFrEN4vt_-Ka-19" value="解码器 2: RNN (conditional GRU)" style="rounded=1;arcSize=20;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="441.5" y="430" width="222" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ONbt_zy7PFrEN4vt_-Ka-20" value="预测上一个句子: Si-1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
