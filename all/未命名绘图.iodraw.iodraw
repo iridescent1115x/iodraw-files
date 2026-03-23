@@ -23,16 +23,16 @@
           <mxGeometry x="279.5" y="359" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r_ESaMu4sQ0En10M_cY3-7" value="词概率序列" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="54.5" y="457" width="140" height="49" as="geometry" />
+          <mxGeometry x="56.5" y="437" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r_ESaMu4sQ0En10M_cY3-8" value="词概率序列" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="457" width="140" height="49" as="geometry" />
+          <mxGeometry x="314.5" y="437" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r_ESaMu4sQ0En10M_cY3-9" value="生成句子 si+1" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="46.5" y="556" width="157" height="49" as="geometry" />
+          <mxGeometry x="48.5" y="536" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r_ESaMu4sQ0En10M_cY3-10" value="生成句子 si-1" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="304.5" y="556" width="154" height="49" as="geometry" />
+          <mxGeometry x="306.5" y="536" width="154" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r_ESaMu4sQ0En10M_cY3-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Comic Sans MS;" edge="1" parent="1" source="r_ESaMu4sQ0En10M_cY3-1" target="r_ESaMu4sQ0En10M_cY3-2">
           <mxGeometry relative="1" as="geometry">
