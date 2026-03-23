@@ -13,7 +13,7 @@
         <mxCell id="r_ESaMu4sQ0En10M_cY3-3" value="Encoder (GRU)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="172" y="180" width="165" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_ESaMu4sQ0En10M_cY3-4" value="句向量 hi" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="r_ESaMu4sQ0En10M_cY3-4" value="句向量 hi" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="190.5" y="260" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r_ESaMu4sQ0En10M_cY3-5" value="Decoder1 (预测 si+1)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
         <mxCell id="r_ESaMu4sQ0En10M_cY3-6" value="Decoder2 (预测 si-1)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="279.5" y="359" width="206" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_ESaMu4sQ0En10M_cY3-7" value="词概率序列" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="r_ESaMu4sQ0En10M_cY3-7" value="词概率序列" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="56.5" y="437" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r_ESaMu4sQ0En10M_cY3-8" value="词概率序列" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Comic Sans MS;" vertex="1" parent="1">
