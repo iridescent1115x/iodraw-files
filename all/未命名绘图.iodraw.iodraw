@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r_ESaMu4sQ0En10M_cY3-1" value="输入句子 si" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="r_ESaMu4sQ0En10M_cY3-1" value="输入句子 si" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="179" y="20" width="148" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_ESaMu4sQ0En10M_cY3-2" value="Embedding: x1 x2 ... xT" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="r_ESaMu4sQ0En10M_cY3-2" value="Embedding: x1 x2 ... xT" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="119" width="232" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r_ESaMu4sQ0En10M_cY3-3" value="Encoder (GRU)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
