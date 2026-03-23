@@ -19,16 +19,16 @@
         <mxCell id="r_ESaMu4sQ0En10M_cY3-5" value="Decoder1 (预测 si+1)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="415" width="209" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_ESaMu4sQ0En10M_cY3-6" value="Decoder2 (预测 si-1)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="r_ESaMu4sQ0En10M_cY3-6" value="Decoder2 (预测 si-1)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="415" width="206" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_ESaMu4sQ0En10M_cY3-7" value="词概率序列" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="r_ESaMu4sQ0En10M_cY3-7" value="词概率序列" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="54" y="513" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_ESaMu4sQ0En10M_cY3-8" value="词概率序列" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="r_ESaMu4sQ0En10M_cY3-8" value="词概率序列" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="312" y="513" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_ESaMu4sQ0En10M_cY3-9" value="生成句子 si+1" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="r_ESaMu4sQ0En10M_cY3-9" value="生成句子 si+1" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="46" y="612" width="157" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r_ESaMu4sQ0En10M_cY3-10" value="生成句子 si-1" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
