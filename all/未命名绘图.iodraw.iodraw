@@ -10,13 +10,13 @@
         <mxCell id="r_ESaMu4sQ0En10M_cY3-2" value="Embedding: x1 x2 ... xT" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="137" y="119" width="232" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_ESaMu4sQ0En10M_cY3-3" value="Encoder (GRU)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="r_ESaMu4sQ0En10M_cY3-3" value="Encoder (GRU)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="171" y="217" width="165" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_ESaMu4sQ0En10M_cY3-4" value="句向量 hi" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="r_ESaMu4sQ0En10M_cY3-4" value="句向量 hi" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="316" width="126" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="r_ESaMu4sQ0En10M_cY3-5" value="Decoder1 (预测 si+1)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="r_ESaMu4sQ0En10M_cY3-5" value="Decoder1 (预测 si+1)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="415" width="209" height="49" as="geometry" />
         </mxCell>
         <mxCell id="r_ESaMu4sQ0En10M_cY3-6" value="Decoder2 (预测 si-1)" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
