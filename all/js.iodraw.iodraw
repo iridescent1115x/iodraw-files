@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O7j8B9LBTKNxyJKVifwC-46" value="应用层（多端协同）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="411" width="837" height="119" as="geometry" />
+          <mxGeometry x="30" y="258" width="837" height="119" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-47" value="算法中枢（模型与推理）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1246" y="565" width="1016" height="119" as="geometry" />
