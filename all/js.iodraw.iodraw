@@ -26,7 +26,7 @@
           <mxGeometry x="790" y="728" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-371" value="多模态数据融合与清洗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1037" y="960" width="220" height="49" as="geometry" />
+          <mxGeometry x="1040" y="960" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-372" value="矿物知识图谱构建&#xa;Neo4j + NER/RE" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1053" y="1109" width="188" height="66" as="geometry" />
@@ -69,11 +69,6 @@
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-385" value="可视化分析仪表盘" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1265" y="1911" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="O7j8B9LBTKNxyJKVifwC-386" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="O7j8B9LBTKNxyJKVifwC-367" target="O7j8B9LBTKNxyJKVifwC-368">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-387" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="O7j8B9LBTKNxyJKVifwC-368" target="O7j8B9LBTKNxyJKVifwC-369">
           <mxGeometry relative="1" as="geometry">
