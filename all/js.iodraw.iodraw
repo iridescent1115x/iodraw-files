@@ -14,7 +14,7 @@
           <mxGeometry x="100" y="470" width="1280" height="564" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-367" value="矿物图像数据&#xa;RRUFF / 自采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1061" y="495" width="172" height="66" as="geometry" />
+          <mxGeometry x="661" y="844" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-368" value="文本知识数据&#xa;Mindat / 文献" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1068" y="611" width="159" height="66" as="geometry" />
