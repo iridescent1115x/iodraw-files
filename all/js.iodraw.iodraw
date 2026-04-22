@@ -58,7 +58,7 @@
         <mxCell id="O7j8B9LBTKNxyJKVifwC-381" value="Web端3D知识图谱交互&#xa;WebGL + 3D Force Graph" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="661" y="1902" width="238" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="O7j8B9LBTKNxyJKVifwC-382" value="移动端实时矿物识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="O7j8B9LBTKNxyJKVifwC-382" value="实时矿物识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="407" y="1911" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-383" value="智能问答系统（RAG）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -69,16 +69,6 @@
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-385" value="可视化分析仪表盘" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1265" y="1911" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="O7j8B9LBTKNxyJKVifwC-387" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="O7j8B9LBTKNxyJKVifwC-368" target="O7j8B9LBTKNxyJKVifwC-369">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="O7j8B9LBTKNxyJKVifwC-388" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="O7j8B9LBTKNxyJKVifwC-369" target="O7j8B9LBTKNxyJKVifwC-370">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-389" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="O7j8B9LBTKNxyJKVifwC-370" target="O7j8B9LBTKNxyJKVifwC-371">
           <mxGeometry relative="1" as="geometry">
