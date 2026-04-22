@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="hEDTOzXfDoK5HLlMBALT">
-    <mxGraphModel dx="1955" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4692" dy="2644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -364,7 +364,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-161" value="应用层（多端协同）" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2230" width="625" height="718" as="geometry" />
+          <mxGeometry x="550" y="2380" width="625" height="718" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-162" value="Web 端（Vue + WebGL）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="O7j8B9LBTKNxyJKVifwC-161">
           <mxGeometry x="45" y="104" width="237" height="49" as="geometry" />
