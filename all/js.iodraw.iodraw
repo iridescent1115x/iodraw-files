@@ -244,7 +244,10 @@
           <mxGeometry x="88" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-463" value="多模态数据输入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="193" y="1770" width="120" height="40" as="geometry" />
+          <mxGeometry x="220" y="1760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O7j8B9LBTKNxyJKVifwC-464" value="多模态数据输入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="366" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
