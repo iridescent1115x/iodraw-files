@@ -252,13 +252,13 @@
         <mxCell id="O7j8B9LBTKNxyJKVifwC-463" value="图谱构建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="228" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7j8B9LBTKNxyJKVifwC-464" value="视觉识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="O7j8B9LBTKNxyJKVifwC-464" value="视觉识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="369" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7j8B9LBTKNxyJKVifwC-465" value="PRISM推荐" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="O7j8B9LBTKNxyJKVifwC-465" value="PRISM推荐" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="510" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O7j8B9LBTKNxyJKVifwC-466" value="PMT-Former预测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="O7j8B9LBTKNxyJKVifwC-466" value="PMT-Former预测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="650" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-467" value="价值决策输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
