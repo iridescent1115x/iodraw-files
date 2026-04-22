@@ -249,6 +249,11 @@
         <mxCell id="O7j8B9LBTKNxyJKVifwC-483" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="O7j8B9LBTKNxyJKVifwC-463" target="O7j8B9LBTKNxyJKVifwC-468">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O7j8B9LBTKNxyJKVifwC-488" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="O7j8B9LBTKNxyJKVifwC-463">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="348" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-463" value="图谱构建" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="228" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
