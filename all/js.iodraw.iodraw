@@ -17,10 +17,10 @@
           <mxGeometry x="139" y="728" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-368" value="文本知识数据&#xa;Mindat / 文献" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1068" y="611" width="159" height="66" as="geometry" />
+          <mxGeometry x="357" y="728" width="159" height="66" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-369" value="结构化属性数据&#xa;硬度 / 产地 / 成分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1051" y="728" width="192" height="66" as="geometry" />
+          <mxGeometry x="560" y="728" width="192" height="66" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-370" value="市场交易时序数据&#xa;拍卖 / 历史价格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1053" y="844" width="188" height="66" as="geometry" />
