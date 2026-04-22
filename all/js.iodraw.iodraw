@@ -23,7 +23,7 @@
           <mxGeometry x="560" y="728" width="192" height="66" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-370" value="市场交易时序数据&#xa;拍卖 / 历史价格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1053" y="844" width="188" height="66" as="geometry" />
+          <mxGeometry x="790" y="728" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-371" value="多模态数据融合与清洗" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1037" y="960" width="220" height="49" as="geometry" />
