@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="hEDTOzXfDoK5HLlMBALT">
-    <mxGraphModel dx="2607" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3434" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="890" y="1272" width="531" height="222" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-412" value="③ 算法层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="891" width="845" height="480" as="geometry" />
+          <mxGeometry x="-18" y="1014" width="845" height="480" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-413" value="② 3D知识图谱与交互层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="927" y="634" width="498" height="490" as="geometry" />
@@ -44,25 +44,25 @@
           <mxGeometry x="1099" y="1033" width="192" height="66" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-424" value="多轨视觉识别&#xa;EfficientNet / ConvNeXt" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="406" y="916" width="234" height="66" as="geometry" />
+          <mxGeometry x="368" y="1039" width="234" height="66" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-425" value="PRISM多模态推荐模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="197" y="1041" width="214" height="49" as="geometry" />
+          <mxGeometry x="159" y="1164" width="214" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-426" value="PMT-Former价格预测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="126" y="1174" width="209" height="49" as="geometry" />
+          <mxGeometry x="88" y="1297" width="209" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-427" value="冲突感知融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="404" y="1174" width="156" height="49" as="geometry" />
+          <mxGeometry x="366" y="1297" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-428" value="多尺度节律建模MRPE" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="56" y="1297" width="210" height="49" as="geometry" />
+          <mxGeometry x="18" y="1420" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-429" value="全局信息选择模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="388" y="1297" width="188" height="49" as="geometry" />
+          <mxGeometry x="350" y="1420" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-430" value="RAG多智能体系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="644" y="1174" width="186" height="49" as="geometry" />
+          <mxGeometry x="606" y="1297" width="186" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-431" value="移动端矿物识别" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="931" y="1297" width="172" height="49" as="geometry" />
@@ -133,14 +133,14 @@
         <mxCell id="O7j8B9LBTKNxyJKVifwC-444" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.98;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="O7j8B9LBTKNxyJKVifwC-424" target="O7j8B9LBTKNxyJKVifwC-425">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="304" y="1008" />
+              <mxPoint x="266" y="1131" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-445" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="O7j8B9LBTKNxyJKVifwC-425" target="O7j8B9LBTKNxyJKVifwC-426">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="231" y="1124" />
+              <mxPoint x="193" y="1247" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -180,7 +180,7 @@
         <mxCell id="O7j8B9LBTKNxyJKVifwC-450" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="O7j8B9LBTKNxyJKVifwC-425" target="O7j8B9LBTKNxyJKVifwC-427">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="482" y="1124" />
+              <mxPoint x="444" y="1247" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -192,7 +192,7 @@
         <mxCell id="O7j8B9LBTKNxyJKVifwC-452" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.34;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="O7j8B9LBTKNxyJKVifwC-426" target="O7j8B9LBTKNxyJKVifwC-428">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="161" y="1247" />
+              <mxPoint x="123" y="1370" />
             </Array>
           </mxGeometry>
         </mxCell>
