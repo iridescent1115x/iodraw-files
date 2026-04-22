@@ -271,7 +271,7 @@
           <mxGeometry x="369" y="1820" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-469" value="认知决策输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1820" width="120" height="40" as="geometry" />
+          <mxGeometry x="510" y="1820" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-470" value="图谱交互/节点编辑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="366" y="1700" width="134" height="40" as="geometry" />
