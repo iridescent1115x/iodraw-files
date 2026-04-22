@@ -253,10 +253,10 @@
           <mxGeometry x="510" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-466" value="PMT-Former预测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="666" y="1760" width="120" height="40" as="geometry" />
+          <mxGeometry x="650" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-467" value="价值决策输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="807" y="1760" width="120" height="40" as="geometry" />
+          <mxGeometry x="791" y="1760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-468" value="智能体RAG问答" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="369" y="1820" width="120" height="40" as="geometry" />
@@ -293,8 +293,8 @@
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-481" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="786" y="1779.8200000000002" as="sourcePoint" />
-            <mxPoint x="808" y="1779.94" as="targetPoint" />
+            <mxPoint x="770" y="1779.8200000000002" as="sourcePoint" />
+            <mxPoint x="792" y="1779.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
