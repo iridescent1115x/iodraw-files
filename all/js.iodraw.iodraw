@@ -217,8 +217,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O7j8B9LBTKNxyJKVifwC-409" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;① 数据层（Data Layer）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="488" y="338" width="160" height="30" as="geometry" />
+        <mxCell id="O7j8B9LBTKNxyJKVifwC-409" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;① 数据层（Data Layer）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="338" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
