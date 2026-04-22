@@ -11,7 +11,7 @@
           <mxGeometry x="100" y="1084" width="1280" height="743" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-366" value="① 数据层（Data Layer）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1002" y="470" width="290" height="564" as="geometry" />
+          <mxGeometry x="100" y="470" width="1192" height="564" as="geometry" />
         </mxCell>
         <mxCell id="O7j8B9LBTKNxyJKVifwC-367" value="矿物图像数据&#xa;RRUFF / 自采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1061" y="495" width="172" height="66" as="geometry" />
