@@ -298,7 +298,7 @@
         <mxCell id="8liQvudYgPynTh52ydpr-73" value="提取人脸特征并查重" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="158.5" y="2825" width="204" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-74" value="写入用户信息并保存人脸图像" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-74" value="写入用户信息并保存人脸图像" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="133.5" y="2901" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-75" value="返回注册成功" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -307,7 +307,7 @@
         <mxCell id="8liQvudYgPynTh52ydpr-76" value="结束" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="3070" width="92" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-77" value="进入登录流程" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-77" value="进入登录流程" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="571" y="2610" width="156" height="41" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-78" value="选择账号密码登录或人脸登录" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
