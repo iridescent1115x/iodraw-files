@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1380" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1676" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -284,25 +284,25 @@
           <mxGeometry x="295" y="2937" width="119" height="63" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-70" value="填写姓名 年龄 手机号 密码 采集人脸" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="21" y="3019" width="250" height="51" as="geometry" />
+          <mxGeometry x="18.5" y="3040" width="250" height="51" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-71" target="8liQvudYgPynTh52ydpr-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-71" value="校验年龄是否为正整数" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="38" y="3100" width="220" height="45" as="geometry" />
+          <mxGeometry x="35.5" y="3121" width="220" height="45" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-72" value="检查手机号是否重复" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="48" y="3170" width="204" height="38" as="geometry" />
+          <mxGeometry x="45.5" y="3191" width="204" height="38" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-73" value="提取人脸特征并查重" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="49.5" y="3234" width="204" height="49" as="geometry" />
+          <mxGeometry x="47" y="3255" width="204" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-74" value="写入用户信息并保存人脸图像" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="24.5" y="3310" width="252" height="49" as="geometry" />
+          <mxGeometry x="22" y="3331" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-75" value="返回注册成功" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="73" y="3382" width="156" height="38" as="geometry" />
+          <mxGeometry x="70.5" y="3403" width="156" height="38" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-76" value="结束" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="308.5" y="3507" width="92" height="39" as="geometry" />
