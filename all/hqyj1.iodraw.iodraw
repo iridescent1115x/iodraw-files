@@ -283,13 +283,13 @@
         <mxCell id="8liQvudYgPynTh52ydpr-69" value="是否注册?" style="rhombus;strokeWidth=2;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="406.5" y="2507" width="119" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-70" value="填写姓名 年龄 手机号 密码 采集人脸" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-70" value="填写姓名 年龄 手机号 密码 采集人脸" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="2610" width="230" height="51" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-71" target="8liQvudYgPynTh52ydpr-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-71" value="校验年龄是否为正整数" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-71" value="校验年龄是否为正整数" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="147" y="2691" width="220" height="45" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-72" value="检查手机号是否重复" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
