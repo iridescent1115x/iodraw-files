@@ -189,10 +189,10 @@
           <mxGeometry x="38.5" y="1620" width="223" height="63" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-47" value="执行 YOLO 推理" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="62" y="1963" width="172" height="37" as="geometry" />
+          <mxGeometry x="65.5" y="1700" width="172" height="37" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-48" value="提取检测框 类别 置信度" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="34" y="2062" width="230" height="38" as="geometry" />
+          <mxGeometry x="34" y="2062" width="206" height="38" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-49" value="生成结果图" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="78" y="2161" width="140" height="39" as="geometry" />
