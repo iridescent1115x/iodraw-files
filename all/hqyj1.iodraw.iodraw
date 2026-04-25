@@ -200,13 +200,13 @@
         <mxCell id="8liQvudYgPynTh52ydpr-50" value="解析结果并自动生成摘要" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="33" y="1880" width="236" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-51" value="保存检测历史" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-51" value="保存检测历史" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="73.5" y="1950" width="156" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-52" value="返回检测结果 摘要和结果图" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-52" value="返回检测结果 摘要和结果图" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="24" y="2010" width="257" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-53" value="结束" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-53" value="结束" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="106.5" y="2080" width="92" height="35" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-40" target="8liQvudYgPynTh52ydpr-41">
