@@ -103,13 +103,13 @@
           <mxGeometry x="430" y="324" width="251" height="36" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-25" value="设置训练参数 &#xa;epochs=100 imgsz=320 batch=8" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="434" y="422" width="244" height="66" as="geometry" />
+          <mxGeometry x="434" y="422" width="244" height="58" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-26" value="执行 model.train 训练" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="447" y="539" width="218" height="49" as="geometry" />
+          <mxGeometry x="447" y="539" width="218" height="41" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-27" value="每轮训练后进行验证" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="454" y="637" width="204" height="49" as="geometry" />
+          <mxGeometry x="454" y="637" width="204" height="43" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-28" value="保存损失曲线 PR曲线 混淆矩阵 权重文件" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="736" width="260" height="66" as="geometry" />
