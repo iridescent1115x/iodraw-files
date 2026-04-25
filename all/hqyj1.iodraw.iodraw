@@ -302,7 +302,7 @@
           <mxGeometry x="24.5" y="3310" width="252" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-75" value="返回注册成功" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="68" y="3712" width="156" height="38" as="geometry" />
+          <mxGeometry x="73" y="3382" width="156" height="38" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-76" value="结束" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="3811" width="92" height="39" as="geometry" />
