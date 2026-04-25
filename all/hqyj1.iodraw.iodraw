@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1020" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -192,10 +192,10 @@
           <mxGeometry x="65.5" y="1700" width="172" height="37" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-48" value="提取检测框 类别 置信度" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="34" y="2062" width="206" height="38" as="geometry" />
+          <mxGeometry x="61" y="1760" width="180" height="38" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-49" value="生成结果图" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="78" y="2161" width="140" height="39" as="geometry" />
+          <mxGeometry x="81.5" y="1820" width="140" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-50" value="解析结果并自动生成摘要" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="30" y="2259" width="236" height="41" as="geometry" />
