@@ -275,13 +275,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-67" value="开始" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="2630" width="92" height="49" as="geometry" />
+          <mxGeometry x="320" y="2640" width="92" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-68" value="进入注册页/登录页" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="267" y="2729" width="196" height="41" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-69" value="是否注册?" style="rhombus;strokeWidth=2;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="306" y="2827" width="119" height="119" as="geometry" />
+          <mxGeometry x="306" y="2827" width="119" height="63" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-70" value="填写姓名 年龄 手机号 密码 采集人脸" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="21" y="3019" width="250" height="66" as="geometry" />
