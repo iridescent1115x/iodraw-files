@@ -29,7 +29,7 @@
           <mxGeometry x="54.5" y="510" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-8" value="前端展示结果、统计信息和历史列表" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="827" width="252" height="66" as="geometry" />
+          <mxGeometry x="22" y="585" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-9" value="可执行筛选、删除、清空、导出报告等操作" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="943" width="252" height="66" as="geometry" />
