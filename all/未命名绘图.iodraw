@@ -91,13 +91,16 @@
           <mxGeometry x="510" y="10" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-22" value="读取 fire_data26.yaml" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="446" y="109" width="220" height="49" as="geometry" />
+          <mxGeometry x="446" y="109" width="220" height="41" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-23" value="定位训练集、验证集、测试集路径" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="207" width="252" height="53" as="geometry" />
+          <mxGeometry x="430" y="207" width="252" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="8liQvudYgPynTh52ydpr-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-24" target="8liQvudYgPynTh52ydpr-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-24" value="加载预训练模型 yolo26s.pt" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="324" width="251" height="49" as="geometry" />
+          <mxGeometry x="430" y="324" width="251" height="36" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-25" value="设置训练参数 &#xa;epochs=100 imgsz=320 batch=8" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="434" y="422" width="244" height="66" as="geometry" />
