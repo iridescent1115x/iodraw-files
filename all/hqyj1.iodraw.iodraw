@@ -290,10 +290,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-71" value="校验年龄是否为正整数" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="41" y="3100" width="220" height="45" as="geometry" />
+          <mxGeometry x="38" y="3100" width="220" height="45" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-72" value="检查手机号是否重复" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="44" y="3242" width="204" height="38" as="geometry" />
+          <mxGeometry x="44" y="3170" width="204" height="38" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-73" value="提取人脸特征并查重" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="44" y="3381" width="204" height="49" as="geometry" />
