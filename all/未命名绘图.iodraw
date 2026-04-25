@@ -20,10 +20,10 @@
           <mxGeometry x="30" y="290" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-5" value="后端接收图片并调用模型推理" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="22" y="356" width="252" height="54" as="geometry" />
+          <mxGeometry x="22" y="356" width="252" height="44" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-6" value="生成检测结果图与检测摘要" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;glass=0;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="22.5" y="439" width="252" height="49" as="geometry" />
+          <mxGeometry x="22.5" y="439" width="252" height="41" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-7" value="保存检测历史记录" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="54.5" y="510" width="188" height="49" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="22" y="585" width="252" height="45" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-9" value="可执行筛选、删除、清空、导出报告等操作" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="670" width="252" height="66" as="geometry" />
+          <mxGeometry x="20" y="670" width="252" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-10" value="结束" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="103" y="753" width="92" height="49" as="geometry" />
