@@ -275,7 +275,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-67" value="开始" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="309" y="2750" width="92" height="39" as="geometry" />
+          <mxGeometry x="309" y="2770" width="92" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-68" value="进入注册页/登录页" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="256" y="2839" width="196" height="41" as="geometry" />
@@ -290,7 +290,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-71" value="校验年龄是否为正整数" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="36" y="3135" width="220" height="45" as="geometry" />
+          <mxGeometry x="41" y="3100" width="220" height="45" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-72" value="检查手机号是否重复" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="44" y="3242" width="204" height="38" as="geometry" />
