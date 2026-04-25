@@ -163,46 +163,46 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-40" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="102" y="1130" width="92" height="49" as="geometry" />
+          <mxGeometry x="102" y="1220" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-41" value="前端上传火焰检测图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="38" y="1229" width="220" height="49" as="geometry" />
+          <mxGeometry x="38" y="1319" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-42" value="后端接收 Base64 图像数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="25" y="1327" width="247" height="49" as="geometry" />
+          <mxGeometry x="25" y="1417" width="247" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-43" value="OpenCV 解码并转换为 RGB 图像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="23" y="1426" width="251" height="66" as="geometry" />
+          <mxGeometry x="23" y="1516" width="251" height="66" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-44" value="保存原图文件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="1542" width="156" height="49" as="geometry" />
+          <mxGeometry x="70" y="1632" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-45" value="加载火焰检测模型 dms_fire_best.pt" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="54" y="1641" width="188" height="66" as="geometry" />
+          <mxGeometry x="54" y="1731" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-46" value="设置推理参数 conf=0.1 imgsz=960" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="37" y="1757" width="223" height="66" as="geometry" />
+          <mxGeometry x="37" y="1847" width="223" height="66" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-47" value="执行 YOLO 推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="62" y="1873" width="172" height="49" as="geometry" />
+          <mxGeometry x="62" y="1963" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-48" value="提取检测框 类别 置信度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="34" y="1972" width="230" height="49" as="geometry" />
+          <mxGeometry x="34" y="2062" width="230" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-49" value="生成结果图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="78" y="2071" width="140" height="49" as="geometry" />
+          <mxGeometry x="78" y="2161" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-50" value="解析结果并自动生成摘要" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="2169" width="236" height="49" as="geometry" />
+          <mxGeometry x="30" y="2259" width="236" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-51" value="保存检测历史" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="2268" width="156" height="49" as="geometry" />
+          <mxGeometry x="70" y="2358" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-52" value="返回检测结果 摘要和结果图" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="2367" width="257" height="49" as="geometry" />
+          <mxGeometry x="20" y="2457" width="257" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-53" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="102" y="2465" width="92" height="49" as="geometry" />
+          <mxGeometry x="102" y="2555" width="92" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-40" target="8liQvudYgPynTh52ydpr-41">
           <mxGeometry relative="1" as="geometry">
