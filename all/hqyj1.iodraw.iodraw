@@ -177,7 +177,7 @@
           <mxGeometry x="25" y="1417" width="247" height="33" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-43" value="OpenCV 解码并转换为 RGB 图像" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="23" y="1516" width="251" height="66" as="geometry" />
+          <mxGeometry x="23" y="1516" width="251" height="54" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-44" value="保存原图文件" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="1632" width="156" height="49" as="geometry" />
