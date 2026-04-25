@@ -198,10 +198,10 @@
           <mxGeometry x="78" y="2161" width="140" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-50" value="解析结果并自动生成摘要" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="2259" width="236" height="49" as="geometry" />
+          <mxGeometry x="30" y="2259" width="236" height="41" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-51" value="保存检测历史" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="70" y="2358" width="156" height="49" as="geometry" />
+          <mxGeometry x="70" y="2358" width="156" height="32" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-52" value="返回检测结果 摘要和结果图" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="2457" width="257" height="49" as="geometry" />
