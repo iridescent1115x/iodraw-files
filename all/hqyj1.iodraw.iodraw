@@ -305,13 +305,13 @@
           <mxGeometry x="68" y="3712" width="156" height="38" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-76" value="结束" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="3811" width="92" height="49" as="geometry" />
+          <mxGeometry x="320" y="3811" width="92" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-77" value="进入登录流程" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="427" y="3135" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-78" value="选择账号密码登录或人脸登录" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="298" y="3234" width="252" height="66" as="geometry" />
+          <mxGeometry x="298" y="3234" width="252" height="46" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-79" value="账号密码匹配 / 人脸特征匹配" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="339" y="3373" width="169" height="66" as="geometry" />
