@@ -87,82 +87,82 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-21" value="开始" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-21" value="开始" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="20" width="92" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-22" value="读取 fire_data26.yaml" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-22" value="读取 fire_data26.yaml" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="445" y="80" width="220" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-23" value="定位训练集、验证集、测试集路径" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-23" value="定位训练集、验证集、测试集路径" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="429" y="139" width="252" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-24" value="加载预训练模型 yolo26s.pt" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-24" value="加载预训练模型 yolo26s.pt" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="207" width="251" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-25" value="设置训练参数 &#xa;epochs=100 imgsz=320 batch=8" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-25" value="设置训练参数 &#xa;epochs=100 imgsz=320 batch=8" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="434" y="260" width="244" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-26" value="执行 model.train 训练" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-26" value="执行 model.train 训练" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="446.5" y="339" width="218" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-27" value="每轮训练后进行验证" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-27" value="每轮训练后进行验证" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="454" y="400" width="204" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-28" value="保存损失曲线 PR曲线 混淆矩阵 权重文件" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-28" value="保存损失曲线 PR曲线 混淆矩阵 权重文件" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="425" y="460" width="260" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-29" target="8liQvudYgPynTh52ydpr-30">
+        <mxCell id="8liQvudYgPynTh52ydpr-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-29" target="8liQvudYgPynTh52ydpr-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-29" value="输出 best.pt 和 last.pt" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-29" value="输出 best.pt 和 last.pt" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="446.5" y="530" width="221" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-30" value="结束" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-30" value="结束" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="511" y="591" width="92" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-21" target="8liQvudYgPynTh52ydpr-22">
+        <mxCell id="8liQvudYgPynTh52ydpr-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-21" target="8liQvudYgPynTh52ydpr-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-22" target="8liQvudYgPynTh52ydpr-23">
+        <mxCell id="8liQvudYgPynTh52ydpr-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-22" target="8liQvudYgPynTh52ydpr-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="555.75" y="182" as="sourcePoint" />
             <mxPoint x="556.2499999999999" y="207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-24" target="8liQvudYgPynTh52ydpr-25">
+        <mxCell id="8liQvudYgPynTh52ydpr-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-24" target="8liQvudYgPynTh52ydpr-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-25" target="8liQvudYgPynTh52ydpr-26">
+        <mxCell id="8liQvudYgPynTh52ydpr-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-25" target="8liQvudYgPynTh52ydpr-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-26" target="8liQvudYgPynTh52ydpr-27">
+        <mxCell id="8liQvudYgPynTh52ydpr-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-26" target="8liQvudYgPynTh52ydpr-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-27" target="8liQvudYgPynTh52ydpr-28">
+        <mxCell id="8liQvudYgPynTh52ydpr-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-27" target="8liQvudYgPynTh52ydpr-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-28" target="8liQvudYgPynTh52ydpr-29">
+        <mxCell id="8liQvudYgPynTh52ydpr-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-28" target="8liQvudYgPynTh52ydpr-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-29" target="8liQvudYgPynTh52ydpr-30">
+        <mxCell id="8liQvudYgPynTh52ydpr-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-29" target="8liQvudYgPynTh52ydpr-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
