@@ -277,10 +277,10 @@
         <mxCell id="8liQvudYgPynTh52ydpr-67" value="开始" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="2370" width="92" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-68" value="进入注册页/登录页" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-68" value="进入注册页/登录页" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="368" y="2440" width="196" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-69" value="是否注册?" style="rhombus;strokeWidth=2;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-69" value="是否注册?" style="rhombus;strokeWidth=2;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="406.5" y="2507" width="119" height="63" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-70" value="填写姓名 年龄 手机号 密码 采集人脸" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -304,7 +304,7 @@
         <mxCell id="8liQvudYgPynTh52ydpr-75" value="返回注册成功" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="182" y="2973" width="156" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="8liQvudYgPynTh52ydpr-76" value="结束" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8liQvudYgPynTh52ydpr-76" value="结束" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="3070" width="92" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-77" value="进入登录流程" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
