@@ -311,7 +311,7 @@
           <mxGeometry x="571" y="2610" width="156" height="41" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-78" value="选择账号密码登录或人脸登录" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="441.5" y="2691" width="252" height="46" as="geometry" />
+          <mxGeometry x="490" y="2691" width="150" height="46" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-79" value="账号密码匹配 / 人脸特征匹配" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="483" y="2771" width="169" height="47" as="geometry" />
