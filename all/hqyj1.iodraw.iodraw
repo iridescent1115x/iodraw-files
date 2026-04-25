@@ -308,16 +308,16 @@
           <mxGeometry x="320" y="3811" width="92" height="39" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-77" value="进入登录流程" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="438" y="3135" width="156" height="49" as="geometry" />
+          <mxGeometry x="459" y="3019" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-78" value="选择账号密码登录或人脸登录" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="309" y="3234" width="252" height="46" as="geometry" />
+          <mxGeometry x="330" y="3118" width="252" height="46" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-79" value="账号密码匹配 / 人脸特征匹配" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="3373" width="169" height="47" as="geometry" />
+          <mxGeometry x="371" y="3257" width="169" height="47" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-80" value="验证是否成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="3489" width="151" height="71" as="geometry" />
+          <mxGeometry x="461" y="3373" width="151" height="71" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-81" value="进入系统首页" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="438" y="3712" width="156" height="38" as="geometry" />
@@ -381,7 +381,7 @@
         <mxCell id="8liQvudYgPynTh52ydpr-92" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-77" target="8liQvudYgPynTh52ydpr-78">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="435" y="3209" />
+              <mxPoint x="456" y="3093" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -393,7 +393,7 @@
         <mxCell id="8liQvudYgPynTh52ydpr-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.1;entryY=0;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-79" target="8liQvudYgPynTh52ydpr-80">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="435" y="3464" />
+              <mxPoint x="456" y="3348" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -405,8 +405,8 @@
         <mxCell id="8liQvudYgPynTh52ydpr-96" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.9;exitY=0;entryX=0.75;entryY=0.99;rounded=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8liQvudYgPynTh52ydpr-80" target="8liQvudYgPynTh52ydpr-77">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="596" y="3464" />
-              <mxPoint x="596" y="3209" />
+              <mxPoint x="617" y="3348" />
+              <mxPoint x="617" y="3093" />
             </Array>
           </mxGeometry>
         </mxCell>
