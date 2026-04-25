@@ -168,13 +168,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-40" value="开始" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="102" y="1220" width="92" height="49" as="geometry" />
+          <mxGeometry x="102" y="1220" width="92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-41" value="前端上传火焰检测图片" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="38" y="1319" width="220" height="49" as="geometry" />
+          <mxGeometry x="38" y="1319" width="220" height="41" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-42" value="后端接收 Base64 图像数据" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="25" y="1417" width="247" height="49" as="geometry" />
+          <mxGeometry x="25" y="1417" width="247" height="33" as="geometry" />
         </mxCell>
         <mxCell id="8liQvudYgPynTh52ydpr-43" value="OpenCV 解码并转换为 RGB 图像" style="whiteSpace=wrap;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="23" y="1516" width="251" height="66" as="geometry" />
