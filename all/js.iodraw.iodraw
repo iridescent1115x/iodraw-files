@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="hEDTOzXfDoK5HLlMBALT">
-    <mxGraphModel dx="2000" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1636" dy="456" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -305,6 +305,38 @@
             <mxPoint x="680" y="1779.8000000000002" as="sourcePoint" />
             <mxPoint x="710" y="1780" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QtXlsgs13fsvXintbFlz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QtXlsgs13fsvXintbFlz-1" target="QtXlsgs13fsvXintbFlz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtXlsgs13fsvXintbFlz-1" value="图像输入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="185" width="87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QtXlsgs13fsvXintbFlz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QtXlsgs13fsvXintbFlz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-373.9310344827586" y="204.68965517241384" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QtXlsgs13fsvXintbFlz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QtXlsgs13fsvXintbFlz-2" target="QtXlsgs13fsvXintbFlz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtXlsgs13fsvXintbFlz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QtXlsgs13fsvXintbFlz-2" target="QtXlsgs13fsvXintbFlz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtXlsgs13fsvXintbFlz-2" value="矿物分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-464" y="185" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QtXlsgs13fsvXintbFlz-3" value="矿物详细信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="185" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QtXlsgs13fsvXintbFlz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QtXlsgs13fsvXintbFlz-4" target="QtXlsgs13fsvXintbFlz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtXlsgs13fsvXintbFlz-4" value="商品推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QtXlsgs13fsvXintbFlz-5" value="价格预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-243" y="240" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
